@@ -14,7 +14,7 @@ ___
 
 Kazalo
 ---
-- [Skupine](#skupine_:wave:)
+- [Skupine](#skupine_👋)
     - [Facebook](#facebook)
     - [Slack](#slack)
     - [Forumi](#forumi)
@@ -39,7 +39,7 @@ Kazalo
     - [Zanimive debate](#zanimive-debate)
 - [Sodelujoči](#sodelujoči)
 
-## Skupine :wave:
+## Skupine 👋
 
 Seznam skupin kjer teče komunikacija/novice/reševanje težav/zanimive informacije med programerji.
 
