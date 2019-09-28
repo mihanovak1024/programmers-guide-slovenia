@@ -81,9 +81,9 @@ Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani 
 - [PHP Developers Slovenia](https://www.meetup.com/php-si/) | 736
 - [Deep Learning Ljubljana](https://www.meetup.com/deep-learning-ljubljana/) | 708
 - [Big Data Developers in Slovenia](https://www.meetup.com/Big-Data-Developers-in-Slovenia/) | 705
+- [D-Talk](https://www.meetup.com/D-Talk/) | 695
 - [WordPress Ljubljana](https://www.meetup.com/WordPress-Ljubljana/) | 677
 - [Android Meetup Slovenija](https://www.meetup.com/Android-Development-Slovenija/) | 643
-- [D-Talk](https://www.meetup.com/D-Talk/) | 695
 - [DevOps Slovenia](https://www.meetup.com/DevOps-Slovenia/) | 551
 - [UX SLOVENIA](https://www.meetup.com/UX-SLOVENIA/) | 507
 - [Ljubljana QA Meetup](https://www.meetup.com/Ljubljana-QA-meetup/) | 486
