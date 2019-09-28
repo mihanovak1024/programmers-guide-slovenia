@@ -22,7 +22,7 @@ Kazalo
 - [Podcasti](#podcasti--)
 - [Novice](#novice--)
 - [Službe](#službe---)
-    - [Slovenski seznam objav za delo](#slovenski-seznam-objav-za-delo-)
+    - [Slovenski seznam objav za delo](#slovenski-seznam-objav-za-delo--)
     - [Tuj seznam objav za delo](#tuj-seznam-objav-za-delo-)
         - [Seznam za remote dela](#seznam-za-remote-dela)
         - [Seznam za on-site dela](#seznam-za-on-site-dela)
