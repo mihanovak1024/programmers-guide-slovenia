@@ -66,8 +66,15 @@ Najlažje spremljanje teh dogodkov/meetupov je s prijavo v [Meetup](https://www.
 
 Na teh dogodkih se ponavadi odvijajo razne predstavitve/talki, po katerih sledi druženje med obiskovalci.
 ### Seznam skupin
-Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani - _DISCLAIMER: zna biti outdated podatek_):
+Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani - _DISCLAIMER: zna biti outdated podatek_).
+
+#### Splošne skupine
 - [Čez glavo v #vblatu](https://www.meetup.com/vblatu/) | 2315
+- [ProductTank Slovenia](https://www.meetup.com/ProductTank-Slovenia/) | 516
+- [Digital Freelancers](https://www.meetup.com/Digital-Freelancing/) | 259
+- [GDG Ljubljana](https://www.meetup.com/GDG-Ljubljana/) | 202
+
+#### Specifične tehnične skupine
 - [JavaScript Ljubljana](https://www.meetup.com/Ljubljana-JavaScript-User-Group/) | 1151
 - [Ljubljana Python User Group](https://www.meetup.com/Ljubljana-Python-Group/) | 1070
 - [Data Science Slovenia](https://www.meetup.com/Data-Science-Slovenia/) | 839
@@ -78,7 +85,6 @@ Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani 
 - [Android Meetup Slovenija](https://www.meetup.com/Android-Development-Slovenija/) | 643
 - [D-Talk](https://www.meetup.com/D-Talk/) | 695
 - [DevOps Slovenia](https://www.meetup.com/DevOps-Slovenia/) | 551
-- [ProductTank Slovenia](https://www.meetup.com/ProductTank-Slovenia/) | 516
 - [UX SLOVENIA](https://www.meetup.com/UX-SLOVENIA/) | 507
 - [Ljubljana QA Meetup](https://www.meetup.com/Ljubljana-QA-meetup/) | 486
 - [PyData Ljubljana Meetup](https://www.meetup.com/PyData-Slovenia-Meetup/) | 397
@@ -90,13 +96,11 @@ Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani 
 - [CocoaHeads Slovenija](https://www.meetup.com/CocoaHeads-Slovenija/) | 305
 - [Angular Slovenia](https://www.meetup.com/ng-slo/) | 299
 - [Slovenia Ruby User Group](https://www.meetup.com/RubySlovenia/) | 268
-- [Digital Freelancers](https://www.meetup.com/Digital-Freelancing/) | 259
 - [SecTalks Ljubljana](https://www.meetup.com/SecTalks-Ljubljana/) | 252
 - [MakeIT Meetup](https://www.meetup.com/meetup-group-MakeIT/) | 228
 - [Ljubljana Lambdas](https://www.meetup.com/Ljubljana-Lambdas/) | 216
 - [1337 Tech Ljubljana](https://www.meetup.com/1337-Tech-Ljubljana/) | 210
 - [MariborJS - Javascript Meetups](https://www.meetup.com/MariborJS/) | 208
-- [GDG Ljubljana](https://www.meetup.com/GDG-Ljubljana/) | 202
 - [Ljubljana Hardware Meetup](https://www.meetup.com/Ljubljana-Hardware-Meetup/) | 199
 - [Backend developers of Ljubljana](https://www.meetup.com/Backend-developers-of-Ljubljana/) | 179
 - [3fs Open House Events](https://www.meetup.com/3fs-openhouse/) | 168
