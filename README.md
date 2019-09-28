@@ -2,7 +2,15 @@
 Vključuje osnovne stvari, ki pridejo prav na samem začetku kariere vsakega programerja.
 ___
 Read this in other languages: [English](README.en.md)
-____
+___
+
+## Uvod
+> Če bi lahko šli skozi čas nazaj, kakšen nasvet bi dali svojemu junior self developerju?
+
+[Vprašanje za mid/senior developerje](https://www.facebook.com/groups/developerji/permalink/682012798568502/) - Jana Bergant
+
+---
+ 
 
 Kazalo:
 ---
@@ -29,12 +37,6 @@ Kazalo:
 - [Knjige](#knjige)
 - [Pripomočki](#pripomočki)
 - [Zanimivosti](#zanimivosti)
-
----
-## Uvod
-> Če bi lahko šli skozi čas nazaj, kakšen nasvet bi dali svojemu junior self developerju? 
-
-[Vprašanje za mid/senior developerje](https://www.facebook.com/groups/developerji/permalink/682012798568502/) - Jana Bergant
 
 ## Skupine
 
