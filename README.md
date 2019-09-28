@@ -12,7 +12,7 @@ ___
 ---
  
 
-Kazalo:
+Kazalo
 ---
 - [Skupine](#skupine)
     - [Facebook](#facebook)
@@ -33,9 +33,7 @@ Kazalo:
     - [Poletne šole](#poletne-šole)
     - [Knjige](#knjige)
 - [Iskanje rešitev](#iskanje-rešitev)
-- [Osnovni koncepti](#osnovni-koncepti)
-- [Knjige](#knjige)
-- [Pripomočki](#pripomočki)
+- [Orodja](#orodja)
 - [Zanimivosti](#zanimivosti)
 
 ## Skupine
@@ -44,15 +42,15 @@ Seznam skupin kjer teče komunikacija/novice/reševanje težav/zanimive informac
 
 Najbolj razširjena je prav zagotovo Facebook skupina [Slovenski developerji](https://www.facebook.com/groups/developerji).
 
-### Seznam skupin:
-#### Facebook:
+### Seznam skupin
+#### Facebook
 - [Slovenski developerji](https://www.facebook.com/groups/developerji)
 - [Službe za developerje](https://www.facebook.com/groups/587337648113104)
 - [Slovenski junior developerji](https://www.facebook.com/groups/106192093326943)
-#### Slack:
+#### Slack
 - [Slovenian Tech Community](https://sloveniantech.herokuapp.com/)
 - [Slovenia Ruby User Group](http://slack.rug.si/)
-#### Forumi:
+#### Forumi
 - [SloTech](https://slo-tech.com/forum)
 
 
@@ -63,7 +61,7 @@ Obstajajo skupine, ki združujejo meetupe glede na tematiko.
 Najlažje spremljanje teh dogodkov/meetupov je s prijavo v [Meetup](https://www.meetup.com/) in pridružitvijo v skupine, glede na lastne interese.
 
 Na teh dogodkih se ponavadi odvijajo razne predstavitve/talki, po katerih sledi druženje med obiskovalci.
-### Seznam skupin:
+### Seznam skupin
 Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani - disclaimer: zna biti outdated podatek):
 - [Čez glavo v #vblatu](https://www.meetup.com/vblatu/) | 2315
 - [JavaScript Ljubljana](https://www.meetup.com/Ljubljana-JavaScript-User-Group/) | 1151
@@ -103,7 +101,7 @@ Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani 
 Podcasti so intervjuji/pogovori v audio obliki. 
 Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne moti pri delu ostalih opravil.
 
-### Seznam podcastov:
+### Seznam podcastov
 - [Soft Skills Engineering](https://softskills.audio/)
 - [Zakulisje](http://www.alenf.com/zakulisje)
 - [Parallel Passion](https://www.parallelpassion.com/)
@@ -116,7 +114,7 @@ Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne 
 Vsak developer/programer mora biti na tekočem z najnovejšimi tehnologijami. 
 Nekaj najnovejših novic/težav/rešitev so na dnevnem nivoju obljavljene na naslednjih straneh.
 
-### Seznam strani za spremljanje novic:
+### Seznam strani za spremljanje novic
 - [SloTech](https://slo-tech.com)
 - [HackerNews](https://news.ycombinator.com)
 - [Reddit r/programming](https://www.reddit.com/r/programming/)
@@ -145,7 +143,7 @@ LinkedIn je poslovno socialno omrežje za povezovanje s kontakti predvsem s posl
 Veliko služb je objavljenih na tej strani, velikokrat pa te tako imenovani [recruiterji](http://www.businessdictionary.com/definition/recruiter.html) direktno obvestijo o odprtih pozicijah pri nekem podjetju,
 glede na tvoje tehnične sposobnosti in osebne preference.    
 
-### Slovenski seznam objav za delo:
+### Slovenski seznam objav za delo
 - [Slovenski developerji](https://www.facebook.com/groups/developerji)
 - [Službe za developerje](https://www.facebook.com/groups/587337648113104)
 - Slack: [Slovenian Tech Community](https://sloveniantech.herokuapp.com/); channel #jobs
@@ -162,11 +160,11 @@ _Remote_ pomeni, da delaš za delodajalca od doma oziroma co-working pisarne (to
 
 Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reče _freelancing_. 
 
-##### Co-working pisarne v Sloveniji:
+##### Co-working pisarne v Sloveniji
 - [Awesome workplaces in Slovenia](https://github.com/otobrglez/awesome-workplaces-slovenia) - Oto Brglez
 - [Pozna kdo kak open office v Ljubljani?](https://www.facebook.com/groups/developerji/permalink/977736778996101/) - Rok Samsa
 
-#### Seznam za remote dela:
+#### Seznam za remote dela
 - [Freelancer](http://freelancer.com/) - freelancing
 - [UpWork](http://upwork.com/) - freelancing
 - [RemoteOK](https://remoteok.io)
@@ -175,13 +173,13 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Zbirka remote služb - Remotive.io](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
 - [Zbirka podjetij za remote službo ali freelance platform](https://docs.google.com/spreadsheets/u/1/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview)
 
-#### Seznam za on-site dela:
+#### Seznam za on-site dela
 - [HackerNews jobs](https://news.ycombinator.com/jobs) - SilliconValley startup službe
 - [StackOverflow jobs](https://stackoverflow.com/jobs)
 - [AngelList](https://angel.co/) - startup službe
 - [Indeed](https://www.indeed.com)
 
-### Pogovori v skupini Slovenski Developerji na to temo:
+### Pogovori v skupini Slovenski Developerji na to temo
 - [Iskanje Remote Dela](https://www.facebook.com/groups/developerji/permalink/1768477156588722/) - Andreas Komočar
     beri komentar Roka Carla (tisti, ki ima najvec lajkov :wink: )
 - [Iskanje Remote Dela](https://www.facebook.com/groups/developerji/permalink/1154485111321266/) - Aljaz Nekaj
@@ -191,28 +189,32 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Delo v tujini - EU](https://www.facebook.com/groups/272812582821861/permalink/836178613151919/) - Žan Marolt
 - [Študentsko delo - ja/ne?](https://www.facebook.com/groups/developerji/permalink/1157902144312896/) - Goran Blažič
 - [Freelance četrtek - Urne postavke](https://www.facebook.com/groups/developerji/permalink/1060272990742479/) - Miha Medven
+- [Rang plač - se da priti v zgornjo mejo?](https://www.facebook.com/groups/developerji/permalink/1914437425326027/) - Klemen Klemen
 
 ## Izobrazba
 
-### Fakultete:
+### Fakultete
 - [Fakulteta za računalništvo in informatiko](https://www.fri.uni-lj.si/sl) - Ljubljana
 - [Fakulteta za elektrotehniko, računalništvo in informatiko](https://feri.um.si) - Maribor
 - [Fakulteta za organizacijske vede](https://fov.um.si/sl) (organizacijska informatika) - Kranj
 
 ### Osnovni koncepti
-- [Git](https://en.wikipedia.org/wiki/Git): 
-    - [Github](https://github.com/)
-    - [GitLab](https://about.gitlab.com/)
-    - [Bitbucket](https://bitbucket.org/product/)
-- [Open-source software](https://en.wikipedia.org/wiki/Open-source_software)
-- [Programske paradigme](https://en.wikipedia.org/wiki/Programming_paradigm):
-    - [Objektno orientirano](https://en.wikipedia.org/wiki/Object-oriented_programming)
-    - [funkcionalno programiranje](https://en.wikipedia.org/wiki/Functional_programming_)
-- Tipi programiranja:
+- Tipi programiranja
     - [Frontend](https://en.wikipedia.org/wiki/Front-end_web_development)
     - [Backend](https://en.wikipedia.org/wiki/Front_and_back_ends)
     - [Fullstack](https://www.w3schools.com/whatis/whatis_fullstack.asp)
-- Programski jeziki: 
+- [Programske paradigme](https://en.wikipedia.org/wiki/Programming_paradigm)
+    - [Objektno orientirano programiranje](https://en.wikipedia.org/wiki/Object-oriented_programming)
+    - [Funkcionalno programiranje](https://en.wikipedia.org/wiki/Functional_programming_)
+- Operacijski sistemi
+    - [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
+    - [Unix](https://en.wikipedia.org/wiki/Unix)
+        - [MacOS](https://en.wikipedia.org/wiki/MacOS)
+        - [Linux](https://en.wikipedia.org/wiki/Linux)
+            - [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu)
+            - [Debian](https://en.wikipedia.org/wiki/Debian)
+            - [Fedora](https://en.wikipedia.org/wiki/Fedora_(operating_system\))
+- Programski jeziki
     - [Python](https://en.wikipedia.org/wiki/Python_(programming_language\))
     - [Java](https://en.wikipedia.org/wiki/Java_(programming_language\))
     - [C](https://en.wikipedia.org/wiki/C_(programming_language\))
@@ -221,23 +223,47 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
     - [shell skripte](https://en.wikipedia.org/wiki/Shell_script) (bash, zsh)
     - [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language\))
     - [assembly](https://en.wikipedia.org/wiki/Assembly_language)  
-- [Baze](https://en.wikipedia.org/wiki/Database):
+- [Baze](https://en.wikipedia.org/wiki/Database)
     - [SQL](https://en.wikipedia.org/wiki/SQL)
     - [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
     - [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)
     - [MariaDB](https://en.wikipedia.org/wiki/MariaDB)
-- Pripomočki za sporazumevanje
+- Testiranje
+    - [Unit testi](https://en.wikipedia.org/wiki/Unit_testing)
+    - [Integracijski testi](https://en.wikipedia.org/wiki/Integration_testing)
+    - [Acceptance testi](https://en.wikipedia.org/wiki/Acceptance_testing)
+    - [Smoke test](https://en.wikipedia.org/wiki/Smoke_testing_(software\))
+    - [Regression test](https://en.wikipedia.org/wiki/Regression_testing)
+- Avtomatizacija build procesa
+    - [Maven](http://maven.apache.org/)
+    - [Gradle](https://gradle.org)
+    - [Ant](https://ant.apache.org)
+- [Git](https://en.wikipedia.org/wiki/Git) - ([Open-source software](https://en.wikipedia.org/wiki/Open-source_software)) 
+    - [Github](https://github.com/)
+    - [GitLab](https://about.gitlab.com/)
+    - [Bitbucket](https://bitbucket.org/product/)
+
+- [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery) -> ([Jenkins](https://jenkins.io))
+- Orodja za sporazumevanje
     - [Slack](https://slack.com/)
     - [Skype](https://www.skype.com/)
     - [Discord](https://discordapp.com)
-- Pripomočki za planiranje:
+- Orodja za planiranje
     - [Jira](https://www.atlassian.com/software/jira)
     - [Trelo](https://trello.com)
-- [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery)
+- Razvojne metodologije
+    - [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development\))
+    - [Kanban](https://en.wikipedia.org/wiki/Kanban_(development\))
+    - [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
+    - [Agilno programiranje](https://en.wikipedia.org/wiki/Agile_software_development)
+        - [Ekstremno programiranje](https://en.wikipedia.org/wiki/Extreme_programming)
+        - [Test driven development](https://en.wikipedia.org/wiki/Test-driven_development)
+    - [Lean](https://en.wikipedia.org/wiki/Lean_software_development)
 - Freelance, Remote (SharedSpace), Fulltime (OpenOffice), consultant
 
-
+#### Članki
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+#### Zbirke literature
 - [Velika zbirka raznih programerskih tem](https://github.com/sindresorhus/awesome)
 - [Zapiski programerskih tem](https://github.com/darshanime/notes)
 
@@ -249,16 +275,16 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [CodeAcademy](https://www.codecademy.com)
 - [KhanAcademy](https://www.khanacademy.org/)
 
-### Poletne šole: 
+### Poletne šole
 - [Poletna šola FRI](https://fri.uni-lj.si/sl/poletna-sola-fri) - Ljubljana
 - [Infinum Academy](https://infinum.co/the-capsized-eight/infinum-academy-is-feeling-slovenia) - Ljubljana
 - [Outfit7 talent camp](https://outfit7.com/talent-camp/) - Ljubljana
 
-#### Bonus:
+#### Bonus
 - [Freelance četrtek](https://www.youtube.com/watch?v=gzjYAxt0cQs&list=PLXvbm3tur0sALLgdTcpEHou0HdcbJ9xwI) - Miha Medven
 - [Brezplačni PHP tečaj](https://www.php-tecaj.si/) - Anže Šuštar, Marko Štamcar
 
-### Knjige:
+### Knjige
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1) (20th anniversary) - Andy Hunt, Dave Thomas
 - [New Programmer's Survival Manual](http://www.amazon.com/New-Programmers.../dp/1934356816) - Joshua D. Carter
 - [The Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) - Robert C. Martin
@@ -266,7 +292,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
-### Pogovori v skupini Slovenski Developerji na to temo:
+### Pogovori v skupini Slovenski Developerji na to temo
 - [Pomembnost izobrazbe](https://www.facebook.com/groups/developerji/permalink/1889843437785426/) - Elisey Ozerov
 - [Se splača it na faks?](https://www.facebook.com/groups/developerji/permalink/1762979540471817/?comment_id=1763040593799045) - komentar Žaka Ternika
 - [Iščeš/ponujaš mentoriranje programiranja](https://www.facebook.com/groups/developerji/permalink/1631643216938784/) - Miha Medven
@@ -274,3 +300,62 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Začetek programerske kariere laika](https://www.facebook.com/groups/developerji/permalink/1423999144369860/) - Aleš Koncilja
 - [Pridobivanje certifikatov - koristno?](https://www.facebook.com/groups/developerji/permalink/417829644986820/) - Ozren Blanuša
 - [Dejansko kdo uporablja rocket-science enačbe s faksa?](https://www.facebook.com/groups/developerji/permalink/1902008999902203/) - Grega Raško
+
+## Iskanje rešitev
+Med programiranjem velikokrat naletimo na oviro, kjer se nam zdi, da ni rešitve.
+Za pomoč iz tovrstnih zagat so bile narejene strani za iskanje tako tehničnih kot tudi konceptualnih rešitev.
+Po vsej verjetnosti je na težavo na katero ste naleteli, naletel že nekdo drug, zato je eno izmed najpomembnejših programerjevih orodij
+prav zagotovo zmožnost efektivnega googlanja za rešitev problema.
+Poleg raznih forumov/blogov pa so za vprašanje o težavah možne naslednje strani:
+- [StackOverflow](https://stackoverflow.com)
+- [SuperUser](https://superuser.com)
+- [Slovenski developerji](https://www.facebook.com/groups/developerji)
+- [HackerNews ask](https://news.ycombinator.com/ask)
+
+## Orodja
+Za čimbolj efektivno delo programerja so prav zagotovo odgovorna tudi njegova orodja.
+
+Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) oziroma [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), terminal in Google.
+
+### Orodja za razvoj
+#### IDE
+- [IntelliJ](https://www.jetbrains.com/idea/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [VisualStudio](https://visualstudio.microsoft.com)
+- [AndroidStudio](https://developer.android.com/studio)
+- [XCode](https://developer.apple.com/xcode/)
+- [Eclipse](https://www.eclipse.org)
+- [NetBeans](https://netbeans.org)
+
+#### Urejevalniki besedil (Text Editors)
+- [SublimeText](https://www.sublimetext.com)
+- [Atom](https://atom.io)
+- [Vim](https://www.vim.org)
+- [Emacs](https://www.gnu.org/software/emacs/)
+- [Notepad++](https://notepad-plus-plus.org)
+
+#### Terminali
+- [iTerm2](https://www.iterm2.com) - MacOS
+- [CMD](https://en.wikipedia.org/wiki/Cmd.exe) - Windows
+- [Ubuntu terminal](https://help.ubuntu.com/community/UsingTheTerminal?action=show&redirect=BasicCommands) - Ubuntu
+
+#### Browser plugini
+- [Vimium](https://vimium.github.io)
+
+
+## Zanimivosti
+Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
+
+### Hobi projekti
+- [Fliavel](https://flyavel.com) - Luka Varga (update razvoja 
+[prvi](https://www.facebook.com/groups/developerji/permalink/1095225057247272/) in 
+[drugi](https://www.facebook.com/groups/developerji/permalink/1459865527449888/) del)
+
+### Zanimive debate
+- [Kaj lepega ste se naučili/zgradili med počitnicami?](https://www.facebook.com/groups/developerji/permalink/1379932758776499/) - Oto Brglez
+
+
+
+## Sodelujoči 
+> V kolikor sem koga pozabil, me prosim opomnite na [@mihanovak1024](https://twitter.com/mihanovak1024) oziroma naredite [nov pull-request](https://github.com/mihanovak1024/programmers-guide-slovenia/pulls).
+- [@mihanovak1024](https://github.com/mihanovak1024) | [Twitter](https://twitter.com/mihanovak1024)
