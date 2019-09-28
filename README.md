@@ -35,6 +35,9 @@ Kazalo
 - [Iskanje rešitev](#iskanje-rešitev)
 - [Orodja](#orodja)
 - [Zanimivosti](#zanimivosti)
+    - [Hobi projekti](#hobi-projekti)
+    - [Zanimive debate](#zanimive-debate)
+- [Sodelujoči](#sodelujoči)
 
 ## Skupine
 
@@ -56,13 +59,14 @@ Najbolj razširjena je prav zagotovo Facebook skupina [Slovenski developerji](ht
 
 ## Meetupi
 
-Največ dogodkov oziroma meetupov se lahko zasledi na spletni strani [Meetup](https://www.meetup.com/).
-Obstajajo skupine, ki združujejo meetupe glede na tematiko. 
+Največ dogodkov oziroma meetupov se lahko zasledi na spletni strani [meetup.com](https://www.meetup.com/).
+Na omenjeni spletni strani so ustvarjene skupine, ki združujejo meetupe glede na tematiko. 
+
 Najlažje spremljanje teh dogodkov/meetupov je s prijavo v [Meetup](https://www.meetup.com/) in pridružitvijo v skupine, glede na lastne interese.
 
 Na teh dogodkih se ponavadi odvijajo razne predstavitve/talki, po katerih sledi druženje med obiskovalci.
 ### Seznam skupin
-Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani - disclaimer: zna biti outdated podatek):
+Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani - _DISCLAIMER: zna biti outdated podatek_):
 - [Čez glavo v #vblatu](https://www.meetup.com/vblatu/) | 2315
 - [JavaScript Ljubljana](https://www.meetup.com/Ljubljana-JavaScript-User-Group/) | 1151
 - [Ljubljana Python User Group](https://www.meetup.com/Ljubljana-Python-Group/) | 1070
@@ -99,7 +103,8 @@ Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani 
 
 ## Podcasti
 Podcasti so intervjuji/pogovori v audio obliki. 
-Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne moti pri delu ostalih opravil.
+
+Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne moti pri opravljanju ostalih opravil.
 
 ### Seznam podcastov
 - [Soft Skills Engineering](https://softskills.audio/)
@@ -125,9 +130,9 @@ Nekaj najnovejših novic/težav/rešitev so na dnevnem nivoju obljavljene na nas
 - [The Register](https://www.theregister.co.uk)
 
 ## Službe
-S svetu programiranja je potreba po programerskem delovnem kadru zelo velika vse od [dot-com booma](https://en.wikipedia.org/wiki/Dot-com_bubble) dalje.
-Zaradi tako velike zaposljivosti se programerji lahko kar konkretno zmišljujemo glede delovnega okolja, programerskih izzivih in seveda plačilne lestvice.
-Ponudbe za delo se najdejo na večih spletnih straneh, nekaj izmed teh je naštetih na naslednjem seznamu.
+V svetu programiranja je vse od [dot-com booma](https://en.wikipedia.org/wiki/Dot-com_bubble) dalje potreba po programerskem delovnem kadru **zelo velika**.
+Zaradi tako velike zaposljivosti se programerji lahko kar konkretno zmišljujemo glede delovnega okolja, programerskih izzivov in seveda, **plačilne lestvice**.
+Ponudbe za delo se najdejo na večih spletnih straneh, nekaj izmed teh je naštetih na spodnjih seznamih.
 
 Za dobro plačo se je pa ponavadi potrebno pogajati in zagovarjati svoje tehnične sposobnosti. 
 Za pomoč pri pogajanju služi [ta članek](https://www.kalzumeus.com/2012/01/23/salary-negotiation).
@@ -138,8 +143,9 @@ Ankete o plačah narejene na Facebook strani Slovenski developerji:
 
 #### LinkedIn
 Kar lahko sami kot programerji naredimo za prepoznavnost in splošen kontakt, je izdelava [LinkedIn](https://www.linkedin.com/) profila ([primer profila](https://www.linkedin.com/in/miha-novak-498738b8/)).
-Več o [LinkedInu](https://www.linkedin.com/) se lahko prebere na [Wikipediji](https://sl.wikipedia.org/wiki/LinkedIn). Na kratko;
-LinkedIn je poslovno socialno omrežje za povezovanje s kontakti predvsem s poslovnega vidika. 
+Več o [LinkedInu](https://www.linkedin.com/) se lahko prebere na [Wikipediji](https://sl.wikipedia.org/wiki/LinkedIn). 
+
+Na kratko; LinkedIn je poslovno socialno omrežje za povezovanje s kontakti predvsem s poslovnega vidika. 
 Veliko služb je objavljenih na tej strani, velikokrat pa te tako imenovani [recruiterji](http://www.businessdictionary.com/definition/recruiter.html) direktno obvestijo o odprtih pozicijah pri nekem podjetju,
 glede na tvoje tehnične sposobnosti in osebne preference.    
 
@@ -153,12 +159,12 @@ glede na tvoje tehnične sposobnosti in osebne preference.
 Možnosti dela za neko podjetje za polni delovni čas so lahko on-site in remote.
 
 
-_On-site_ pomeni, da za delodajalca delaš v njihovih pisarnah oziroma da si fizično prisoten.
+_On-site_ pomeni, da za delodajalca delaš v njihovih pisarnah oziroma si fizično prisoten.
 
 
-_Remote_ pomeni, da delaš za delodajalca od doma oziroma co-working pisarne (torej nerabiš biti fizično prisoten pri njih). [Good Remote Work Literature](https://news.ycombinator.com/item?id=20884974)
+_Remote_ pomeni, da delaš za delodajalca od doma oziroma co-working pisarne (torej nerabiš biti fizično prisoten pri njih). [Remote Work Literature](https://news.ycombinator.com/item?id=20884974)
 
-Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reče _freelancing_. 
+Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reče [_freelancing_](https://en.wikipedia.org/wiki/Freelancer), ker ponavadi pomeni delo preko s.p. pogodbe. 
 
 ##### Co-working pisarne v Sloveniji
 - [Awesome workplaces in Slovenia](https://github.com/otobrglez/awesome-workplaces-slovenia) - Oto Brglez
@@ -171,12 +177,12 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [WeWorkRemotely](https://weworkremotely.com)
 - [Nomadlist](https://nomadlist.com)
 - [Zbirka remote služb - Remotive.io](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
-- [Zbirka podjetij za remote službo ali freelance platform](https://docs.google.com/spreadsheets/u/1/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview)
+- [Zbirka freelance platform in podjetij, ki omogocajo remote delo](https://docs.google.com/spreadsheets/u/1/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview)
 
 #### Seznam za on-site dela
-- [HackerNews jobs](https://news.ycombinator.com/jobs) - SilliconValley startup službe
+- [HackerNews jobs](https://news.ycombinator.com/jobs) - SilliconValley startupi
 - [StackOverflow jobs](https://stackoverflow.com/jobs)
-- [AngelList](https://angel.co/) - startup službe
+- [AngelList](https://angel.co/) - startupi
 - [Indeed](https://www.indeed.com)
 
 ### Pogovori v skupini Slovenski Developerji na to temo
@@ -184,7 +190,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
     beri komentar Roka Carla (tisti, ki ima najvec lajkov :wink: )
 - [Iskanje Remote Dela](https://www.facebook.com/groups/developerji/permalink/1154485111321266/) - Aljaz Nekaj
 - [Primerjava San Francisco <-> Evropa](https://www.facebook.com/groups/developerji/permalink/1889843437785426/) - Swizec Teller
-- [Remote: nekaj s pravnega vidika v Sloveniji](https://www.facebook.com/groups/developerji/permalink/1151770271592750/) - Robert Koritnik
+- [Remote delo s pravnega vidika v Sloveniji](https://www.facebook.com/groups/developerji/permalink/1151770271592750/) - Robert Koritnik
 - [Debata o plačah in junior/senior delovnih mestih](https://www.facebook.com/groups/developerji/permalink/1157862170983560/) - Miha Medven
 - [Delo v tujini - EU](https://www.facebook.com/groups/272812582821861/permalink/836178613151919/) - Žan Marolt
 - [Študentsko delo - ja/ne?](https://www.facebook.com/groups/developerji/permalink/1157902144312896/) - Goran Blažič
@@ -264,7 +270,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 #### Članki
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 #### Zbirke literature
-- [Velika zbirka raznih programerskih tem](https://github.com/sindresorhus/awesome)
+- [Zbirka raznih programerskih tem](https://github.com/sindresorhus/awesome)
 - [Zapiski programerskih tem](https://github.com/darshanime/notes)
 
 ### Online tečaji
@@ -304,8 +310,10 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 ## Iskanje rešitev
 Med programiranjem velikokrat naletimo na oviro, kjer se nam zdi, da ni rešitve.
 Za pomoč iz tovrstnih zagat so bile narejene strani za iskanje tako tehničnih kot tudi konceptualnih rešitev.
+
 Po vsej verjetnosti je na težavo na katero ste naleteli, naletel že nekdo drug, zato je eno izmed najpomembnejših programerjevih orodij
 prav zagotovo zmožnost efektivnega googlanja za rešitev problema.
+
 Poleg raznih forumov/blogov pa so za vprašanje o težavah možne naslednje strani:
 - [StackOverflow](https://stackoverflow.com)
 - [SuperUser](https://superuser.com)
