@@ -22,8 +22,8 @@ Kazalo
 - [Podcasti](#podcasti--)
 - [Novice](#novice--)
 - [Službe](#službe---)
-    - [Slovenski seznam objav za delo](#slovenski-seznam-objav-za-delo)
-    - [Tuj seznam objav za delo](#tuj-seznam-objav-za-delo)
+    - [Slovenski seznam objav za delo](#slovenski-seznam-objav-za-delo-)
+    - [Tuj seznam objav za delo](#tuj-seznam-objav-za-delo-)
         - [Seznam za remote dela](#seznam-za-remote-dela)
         - [Seznam za on-site dela](#seznam-za-on-site-dela)
 - [Izobrazba](#izobrazba---)
@@ -31,7 +31,7 @@ Kazalo
     - [Osnovni koncepti](#osnovni-koncepti)
     - [Online tečaji](#online-tečaji)
     - [Poletne šole](#poletne-šole)
-    - [Knjige](#knjige)
+    - [Knjige](#knjige-)
 - [Iskanje rešitev](#iskanje-rešitev--)
 - [Orodja](#orodja-)
 - [Zanimivosti](#zanimivosti--)
@@ -134,14 +134,14 @@ Nekaj najnovejših novic/težav/rešitev so na dnevnem nivoju obljavljene na nas
 - [The Register](https://www.theregister.co.uk)
 
 ## Službe 👨‍💻 👩‍💻 💸
-V svetu programiranja je vse od [dot-com booma](https://en.wikipedia.org/wiki/Dot-com_bubble) dalje potreba po programerskem delovnem kadru **zelo velika**.
+V svetu programiranja je vse od [dot-com booma](https://en.wikipedia.org/wiki/Dot-com_bubble) dalje potreba po programerskem delovnem kadru ~~še kar~~ **ZELO** velika.
 Zaradi tako velike zaposljivosti se programerji lahko kar konkretno zmišljujemo glede delovnega okolja, programerskih izzivov in seveda, **plačilne lestvice**.
 Ponudbe za delo se najdejo na večih spletnih straneh, nekaj izmed teh je naštetih na spodnjih seznamih.
 
 Za dobro plačo se je pa ponavadi potrebno pogajati in zagovarjati svoje tehnične sposobnosti. 
 Za pomoč pri pogajanju služi [ta članek](https://www.kalzumeus.com/2012/01/23/salary-negotiation).
 
-Ankete o plačah narejene na Facebook strani Slovenski developerji:
+Ankete o plačah narejene na Facebook strani Slovenski developerji (~5000 developerjev):
 - [Anketa o plačah 2018](https://medium.com/@mihec.susnik/pla%C4%8De-razvijalcev-2018-7a71d4befb1)
 - [Anketa o plačah 2019](https://medium.com/@mihec.susnik/plače-razvijalcev-2019-8f5b20691f3e)
 
@@ -149,17 +149,17 @@ Ankete o plačah narejene na Facebook strani Slovenski developerji:
 Kar lahko sami kot programerji naredimo za prepoznavnost in splošen kontakt, je izdelava [LinkedIn](https://www.linkedin.com/) profila ([primer profila](https://www.linkedin.com/in/miha-novak-498738b8/)).
 Več o [LinkedInu](https://www.linkedin.com/) se lahko prebere na [Wikipediji](https://sl.wikipedia.org/wiki/LinkedIn). 
 
-Na kratko; LinkedIn je poslovno socialno omrežje za povezovanje s kontakti predvsem s poslovnega vidika. 
-Veliko služb je objavljenih na tej strani, velikokrat pa te tako imenovani [recruiterji](http://www.businessdictionary.com/definition/recruiter.html) direktno obvestijo o odprtih pozicijah pri nekem podjetju,
+Na kratko; [LinkedIn](https://www.linkedin.com/) je poslovno socialno omrežje za povezovanje s kontakti predvsem s poslovnega vidika. 
+Veliko služb je objavljenih na tej strani, velikokrat pa te tako imenovani [rekruterji](http://www.businessdictionary.com/definition/recruiter.html) direktno obvestijo o odprtih pozicijah pri nekem podjetju,
 glede na tvoje tehnične sposobnosti in osebne preference.    
 
-### Slovenski seznam objav za delo
+### Slovenski seznam objav za delo  🇸🇮
 - [Slovenski developerji](https://www.facebook.com/groups/developerji)
 - [Službe za developerje](https://www.facebook.com/groups/587337648113104)
 - Slack: [Slovenian Tech Community](https://sloveniantech.herokuapp.com/); channel #jobs
 - [PovioLabs](https://www.poviolabs.com) - možnost projektnega dela (freelancing) ali redna zaposlitev
 
-### Tuj seznam objav za delo
+### Tuj seznam objav za delo 🌎
 Možnosti dela za neko podjetje za polni delovni čas so lahko on-site in remote.
 
 
@@ -273,7 +273,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 
 #### Članki
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
-#### Zbirke literature
+#### Zbirke literature 📖
 - [Zbirka raznih programerskih tem](https://github.com/sindresorhus/awesome)
 - [Zapiski programerskih tem](https://github.com/darshanime/notes)
 
@@ -294,7 +294,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Freelance četrtek](https://www.youtube.com/watch?v=gzjYAxt0cQs&list=PLXvbm3tur0sALLgdTcpEHou0HdcbJ9xwI) - Miha Medven
 - [Brezplačni PHP tečaj](https://www.php-tecaj.si/) - Anže Šuštar, Marko Štamcar
 
-### Knjige
+### Knjige 📚
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1) (20th anniversary) - Andy Hunt, Dave Thomas
 - [New Programmer's Survival Manual](http://www.amazon.com/New-Programmers.../dp/1934356816) - Joshua D. Carter
 - [The Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) - Robert C. Martin
