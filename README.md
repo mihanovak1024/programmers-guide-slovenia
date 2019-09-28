@@ -367,6 +367,7 @@ Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
 - [Kaj lepega ste se naučili/zgradili med počitnicami?](https://www.facebook.com/groups/developerji/permalink/1379932758776499/) - Oto Brglez
 
 
+---
 
 ## Sodelujoči 🎖
 > V kolikor sem koga pozabil, me prosim opomnite na [@mihanovak1024](https://twitter.com/mihanovak1024) oziroma naredite [nov pull-request](https://github.com/mihanovak1024/programmers-guide-slovenia/pulls).
