@@ -1,7 +1,7 @@
-# Programerski vodič Slovenija
-Vključuje osnovne stvari, ki pridejo prav na samem začetku kariere vsakega programerja.
+# Programerski vodič Slovenija :slovenia:
+Vključuje osnovne stvari, ki pridejo prav na samem začetku kariere vsakega programerja :man_technologist: oziroma programerke :woman_technologist:.
 ___
-Read this in other languages: [English](README.en.md)
+Read this in other languages: [English](README.en.md) :gb:
 ___
 
 ## Uvod
