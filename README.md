@@ -14,7 +14,7 @@ ___
 
 Kazalo
 ---
-- [Skupine](#skupine)
+- [Skupine](#skupine_:wave:)
     - [Facebook](#facebook)
     - [Slack](#slack)
     - [Forumi](#forumi)
