@@ -1,9 +1,11 @@
 # Programerski vodič Slovenija 
 Vključuje osnovne stvari, ki pridejo prav na samem začetku kariere vsakega programerja.
-
+___
 Read this in other languages: [English](README.en.md)
+____
 
 Kazalo:
+---
 - [Skupine](#skupine)
 - [Meetupi](#meetupi)
 - [Podcasti](#podcasti)
@@ -18,17 +20,18 @@ Kazalo:
 ## Skupine
 
 Seznam skupin kjer teče komunikacija/novice/reševanje težav/zanimive informacije med programerji.
+
 Najbolj razširjena je prav zagotovo Facebook skupina [Slovenski developerji](https://www.facebook.com/groups/developerji).
 
-###Seznam skupin:
-####Facebook:
+### Seznam skupin:
+#### Facebook:
 - [Slovenski developerji](https://www.facebook.com/groups/developerji)
 - [Službe za developerje](https://www.facebook.com/groups/587337648113104)
 - [Slovenski junior developerji](https://www.facebook.com/groups/106192093326943)
-####Slack:
+#### Slack:
 - [Slovenian Tech Community](https://sloveniantech.herokuapp.com/)
 - [Slovenia Ruby User Group](http://slack.rug.si/)
-####Forumi:
+#### Forumi:
 - [SloTech](https://slo-tech.com/forum)
 
 
@@ -39,7 +42,7 @@ Obstajajo skupine, ki združujejo meetupe glede na tematiko.
 Najlažje spremljanje teh dogodkov/meetupov je s prijavo v [Meetup](https://www.meetup.com/) in pridružitvijo v skupine, glede na lastne interese.
 
 Na teh dogodkih se ponavadi odvijajo razne predstavitve/talki, po katerih sledi druženje med obiskovalci.
-###Seznam skupin:
+### Seznam skupin:
 Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani - disclaimer: zna biti outdated podatek):
 - [Čez glavo v #vblatu](https://www.meetup.com/vblatu/) | 2315
 - [JavaScript Ljubljana](https://www.meetup.com/Ljubljana-JavaScript-User-Group/) | 1151
@@ -79,7 +82,7 @@ Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani 
 Podcasti so intervjuji/pogovori v audio obliki. 
 Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne moti pri delu ostalih opravil.
 
-###Seznam podcastov:
+### Seznam podcastov:
 - [Soft Skills Engineering](https://softskills.audio/)
 - [Zakulisje](http://www.alenf.com/zakulisje)
 - [Parallel Passion](https://www.parallelpassion.com/)
@@ -92,7 +95,7 @@ Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne 
 Vsak developer/programer mora biti na tekočem z najnovejšimi tehnologijami. 
 Nekaj najnovejših novic/težav/rešitev so na dnevnem nivoju obljavljene na naslednjih straneh.
 
-###Seznam strani za spremljanje novic:
+### Seznam strani za spremljanje novic:
 - [SloTech](https://slo-tech.com)
 - [HackerNews](https://news.ycombinator.com)
 - [Reddit r/programming](https://www.reddit.com/r/programming/)
@@ -114,26 +117,30 @@ Ankete o plačah narejene na Facebook strani Slovenski developerji:
 - [Anketa o plačah 2018](https://medium.com/@mihec.susnik/pla%C4%8De-razvijalcev-2018-7a71d4befb1)
 - [Anketa o plačah 2019](https://medium.com/@mihec.susnik/plače-razvijalcev-2019-8f5b20691f3e)
 
-####LinkedIn
+#### LinkedIn
 Kar lahko sami kot programerji naredimo za prepoznavnost in splošen kontakt, je izdelava [LinkedIn](https://www.linkedin.com/) profila ([primer profila](https://www.linkedin.com/in/miha-novak-498738b8/)).
 Več o [LinkedInu](https://www.linkedin.com/) se lahko prebere na [Wikipediji](https://sl.wikipedia.org/wiki/LinkedIn). Na kratko;
 LinkedIn je poslovno socialno omrežje za povezovanje s kontakti predvsem s poslovnega vidika. 
 Veliko služb je objavljenih na tej strani, velikokrat pa te tako imenovani [recruiterji](http://www.businessdictionary.com/definition/recruiter.html) direktno obvestijo o odprtih pozicijah pri nekem podjetju,
 glede na tvoje tehnične sposobnosti in osebne preference.    
 
-###Slovenski seznam objav za delo:
+### Slovenski seznam objav za delo:
 - [Slovenski developerji](https://www.facebook.com/groups/developerji)
 - [Službe za developerje](https://www.facebook.com/groups/587337648113104)
 - Slack: [Slovenian Tech Community](https://sloveniantech.herokuapp.com/); channel #jobs
 - [PovioLabs](https://www.poviolabs.com) - možnost projektnega dela (freelancing) ali redna zaposlitev
 
-###Tuj seznam objav za delo
+### Tuj seznam objav za delo
 Možnosti dela za neko podjetje za polni delovni čas so lahko on-site in remote.
-On-site pomeni, da za delodajalca delaš v njihovih pisarnah oz. da si fizično prisoten.
-Remote pomeni, da delaš za delodajalca od doma oz. co-working pisarne (torej nerabiš biti fizično prisoten pri njih).
 
-Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reče freelancing. 
-####Seznam za remote dela:
+
+_On-site_ pomeni, da za delodajalca delaš v njihovih pisarnah oz. da si fizično prisoten.
+
+
+_Remote_ pomeni, da delaš za delodajalca od doma oz. co-working pisarne (torej nerabiš biti fizično prisoten pri njih).
+
+Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reče _freelancing_. 
+#### Seznam za remote dela:
 - [Freelancer](http://freelancer.com/) - freelancing
 - [UpWork](http://upwork.com/) - freelancing
 - [RemoteOK](https://remoteok.io)
@@ -142,7 +149,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Zbirka remote služb - Remotive.io](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
 - [Zbirka podjetij za remote službo ali freelance platform](https://docs.google.com/spreadsheets/u/1/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview)
 
-####Seznam za on-site dela:
+#### Seznam za on-site dela:
 - [HackerNews jobs](https://news.ycombinator.com/jobs) - SilliconValley startup službe
 - [StackOverflow jobs](https://stackoverflow.com/jobs)
 - [AngelList](https://angel.co/) - startup službe
