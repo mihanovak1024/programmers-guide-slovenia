@@ -39,7 +39,7 @@ Kazalo
     - [Zanimive debate](#zanimive-debate)
 - [Sodelujoči](#sodelujoči)
 
-## Skupine
+## Skupine :wave:
 
 Seznam skupin kjer teče komunikacija/novice/reševanje težav/zanimive informacije med programerji.
 
@@ -57,7 +57,7 @@ Najbolj razširjena je prav zagotovo Facebook skupina [Slovenski developerji](ht
 - [SloTech](https://slo-tech.com/forum)
 
 
-## Meetupi
+## Meetupi :man_teacher: :man_student: :beers:
 
 Največ dogodkov oziroma meetupov se lahko zasledi na spletni strani [meetup.com](https://www.meetup.com/).
 Na omenjeni spletni strani so ustvarjene skupine, ki združujejo meetupe glede na tematiko. 
@@ -101,7 +101,7 @@ Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani 
 - [Backend developers of Ljubljana](https://www.meetup.com/Backend-developers-of-Ljubljana/) | 179
 - [3fs Open House Events](https://www.meetup.com/3fs-openhouse/) | 168
 
-## Podcasti
+## Podcasti :studio_microphone: :headphones:
 Podcasti so intervjuji/pogovori v audio obliki. 
 
 Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne moti pri opravljanju ostalih opravil.
@@ -115,7 +115,7 @@ Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne 
 - [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
 - [Indie Hackers](https://www.indiehackers.com/podcast)
 
-## Novice
+## Novice :newspaper_roll: :loudspeaker:
 Vsak developer/programer mora biti na tekočem z najnovejšimi tehnologijami. 
 Nekaj najnovejših novic/težav/rešitev so na dnevnem nivoju obljavljene na naslednjih straneh.
 
@@ -129,7 +129,7 @@ Nekaj najnovejših novic/težav/rešitev so na dnevnem nivoju obljavljene na nas
 - [InfoQ](https://www.infoq.com)
 - [The Register](https://www.theregister.co.uk)
 
-## Službe
+## Službe :man_technologist: :woman_technologist: :money_with_wings:
 V svetu programiranja je vse od [dot-com booma](https://en.wikipedia.org/wiki/Dot-com_bubble) dalje potreba po programerskem delovnem kadru **zelo velika**.
 Zaradi tako velike zaposljivosti se programerji lahko kar konkretno zmišljujemo glede delovnega okolja, programerskih izzivov in seveda, **plačilne lestvice**.
 Ponudbe za delo se najdejo na večih spletnih straneh, nekaj izmed teh je naštetih na spodnjih seznamih.
@@ -197,7 +197,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Freelance četrtek - Urne postavke](https://www.facebook.com/groups/developerji/permalink/1060272990742479/) - Miha Medven
 - [Rang plač - se da priti v zgornjo mejo?](https://www.facebook.com/groups/developerji/permalink/1914437425326027/) - Klemen Klemen
 
-## Izobrazba
+## Izobrazba :classical_building: :books: :chart_with_upwards_trend:
 
 ### Fakultete
 - [Fakulteta za računalništvo in informatiko](https://www.fri.uni-lj.si/sl) - Ljubljana
@@ -307,7 +307,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Pridobivanje certifikatov - koristno?](https://www.facebook.com/groups/developerji/permalink/417829644986820/) - Ozren Blanuša
 - [Dejansko kdo uporablja rocket-science enačbe s faksa?](https://www.facebook.com/groups/developerji/permalink/1902008999902203/) - Grega Raško
 
-## Iskanje rešitev
+## Iskanje rešitev :mag_right: :bulb:
 Med programiranjem velikokrat naletimo na oviro, kjer se nam zdi, da ni rešitve.
 Za pomoč iz tovrstnih zagat so bile narejene strani za iskanje tako tehničnih kot tudi konceptualnih rešitev.
 
@@ -320,7 +320,7 @@ Poleg raznih forumov/blogov pa so za vprašanje o težavah možne naslednje stra
 - [Slovenski developerji](https://www.facebook.com/groups/developerji)
 - [HackerNews ask](https://news.ycombinator.com/ask)
 
-## Orodja
+## Orodja :hammer_and_wrench:
 Za čimbolj efektivno delo programerja so prav zagotovo odgovorna tudi njegova orodja.
 
 Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) oziroma [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), terminal in Google.
@@ -351,7 +351,7 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 - [Vimium](https://vimium.github.io)
 
 
-## Zanimivosti
+## Zanimivosti :open_mouth: :raised_hands:
 Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
 
 ### Hobi projekti
@@ -364,6 +364,6 @@ Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
 
 
 
-## Sodelujoči 
+## Sodelujoči :medal_military:
 > V kolikor sem koga pozabil, me prosim opomnite na [@mihanovak1024](https://twitter.com/mihanovak1024) oziroma naredite [nov pull-request](https://github.com/mihanovak1024/programmers-guide-slovenia/pulls).
 - [@mihanovak1024](https://github.com/mihanovak1024) | [Twitter](https://twitter.com/mihanovak1024)
