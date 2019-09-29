@@ -325,6 +325,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Dejansko kdo uporablja rocket-science enačbe s faksa?](https://www.facebook.com/groups/developerji/permalink/1902008999902203/) - Grega Raško
 - [Mistični Full Stack developerji](https://www.facebook.com/groups/developerji/permalink/1857080687728368/) - Tomaž Štih
 - [Frontent vs backend](https://www.facebook.com/groups/developerji/permalink/1846714855431618/) - Klemen Klemen
+- [Online courses vs college in Software Engineering](https://news.ycombinator.com/item?id=21104926) - HackerNews
 
 ## Iskanje rešitev 🔎 💡
 Med programiranjem velikokrat naletimo na oviro, kjer se nam zdi, da ni rešitve.
@@ -374,7 +375,7 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
 
 ### Hobi projekti
-- [Fliavel](https://flyavel.com) - Luka Varga (update razvoja 
+- [Flyavel](https://flyavel.com) - Luka Varga (update razvoja 
 [prvi](https://www.facebook.com/groups/developerji/permalink/1095225057247272/) in 
 [drugi](https://www.facebook.com/groups/developerji/permalink/1459865527449888/) del)
 
