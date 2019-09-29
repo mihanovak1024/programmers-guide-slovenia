@@ -141,9 +141,14 @@ Ponudbe za delo se najdejo na večih spletnih straneh, nekaj izmed teh je našte
 Za dobro plačo se je pa ponavadi potrebno pogajati in zagovarjati svoje tehnične sposobnosti. 
 Za pomoč pri pogajanju služi [ta članek](https://www.kalzumeus.com/2012/01/23/salary-negotiation).
 
-Ankete o plačah narejene na Facebook strani Slovenski developerji (~5000 developerjev):
+Ankete o plačah narejene na Facebook strani Slovenski developerji (~5000 developerjev).
+#### Anketa o plačah
 - [Anketa o plačah 2018](https://medium.com/@mihec.susnik/pla%C4%8De-razvijalcev-2018-7a71d4befb1)
 - [Anketa o plačah 2019](https://medium.com/@mihec.susnik/plače-razvijalcev-2019-8f5b20691f3e)
+
+#### Seznam strani za informacijo o plačah:
+- [Glassdoor](https://www.glassdoor.com/index.htm)
+- [levels.fyi](https://www.levels.fyi)
 
 #### LinkedIn
 Kar lahko sami kot programerji naredimo za prepoznavnost in splošen kontakt, je izdelava [LinkedIn](https://www.linkedin.com/) profila ([primer profila](https://www.linkedin.com/in/miha-novak-498738b8/)).
@@ -193,13 +198,17 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Iskanje Remote Dela](https://www.facebook.com/groups/developerji/permalink/1768477156588722/) - Andreas Komočar
     beri komentar Roka Carla (tisti, ki ima najvec lajkov :wink: )
 - [Iskanje Remote Dela](https://www.facebook.com/groups/developerji/permalink/1154485111321266/) - Aljaz Nekaj
-- [Primerjava San Francisco <-> Evropa](https://www.facebook.com/groups/developerji/permalink/1889843437785426/) - Swizec Teller
+- [Primerjava San Francisco <-> Evropa](https://www.facebook.com/groups/developerji/permalink/1889843437785426/), [Part2](https://swizec.com/blog/san-francisco-v-europe-part-2/swizec/9198) - Swizec Teller
 - [Remote delo s pravnega vidika v Sloveniji](https://www.facebook.com/groups/developerji/permalink/1151770271592750/) - Robert Koritnik
 - [Debata o plačah in junior/senior delovnih mestih](https://www.facebook.com/groups/developerji/permalink/1157862170983560/) - Miha Medven
 - [Delo v tujini - EU](https://www.facebook.com/groups/272812582821861/permalink/836178613151919/) - Žan Marolt
 - [Študentsko delo - ja/ne?](https://www.facebook.com/groups/developerji/permalink/1157902144312896/) - Goran Blažič
 - [Freelance četrtek - Urne postavke](https://www.facebook.com/groups/developerji/permalink/1060272990742479/) - Miha Medven
 - [Rang plač - se da priti v zgornjo mejo?](https://www.facebook.com/groups/developerji/permalink/1914437425326027/) - Klemen Klemen
+- [4 years in San Francisco - lessons learned](https://swizec.com/blog/4-years-of-coding-in-san-francisco-lessons-learned/swizec/9026) - Swizec Teller
+- [Getting the most of your country - salary-wise](https://www.facebook.com/groups/developerji/permalink/1698882163548222/) - Swizec Teller
+- [How I sidehustled and why it almost killed my business](https://www.facebook.com/groups/developerji/permalink/1521000998003007/) - Swizec Teller
+- [What I learned while 6x-ing my income in the last 4 years](https://www.facebook.com/groups/developerji/permalink/863286370441143/) - Swizec Teller
 
 ## Izobrazba 🏛 📚 📈
 
