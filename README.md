@@ -209,6 +209,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Getting the most of your country - salary-wise](https://www.facebook.com/groups/developerji/permalink/1698882163548222/) - Swizec Teller
 - [How I sidehustled and why it almost killed my business](https://www.facebook.com/groups/developerji/permalink/1521000998003007/) - Swizec Teller
 - [What I learned while 6x-ing my income in the last 4 years](https://www.facebook.com/groups/developerji/permalink/863286370441143/) - Swizec Teller
+- [Kot SENIOR developer - 3+ let izkušenj](https://www.facebook.com/groups/developerji/permalink/1755631567873281/) - Žiga Hajduković
 
 ## Izobrazba 🏛 📚 📈
 
@@ -279,6 +280,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
         - [Test driven development](https://en.wikipedia.org/wiki/Test-driven_development)
     - [Lean](https://en.wikipedia.org/wiki/Lean_software_development)
 - Freelance, Remote (SharedSpace), Fulltime (OpenOffice), consultant
+- Junior, Mid, Senior developerji, ["10x developerji"](https://www.facebook.com/groups/developerji/permalink/899702813466165/)
 
 #### Članki
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
@@ -319,6 +321,8 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Začetek programerske kariere laika](https://www.facebook.com/groups/developerji/permalink/1423999144369860/) - Aleš Koncilja
 - [Pridobivanje certifikatov - koristno?](https://www.facebook.com/groups/developerji/permalink/417829644986820/) - Ozren Blanuša
 - [Dejansko kdo uporablja rocket-science enačbe s faksa?](https://www.facebook.com/groups/developerji/permalink/1902008999902203/) - Grega Raško
+- [Mistični Full Stack developerji](https://www.facebook.com/groups/developerji/permalink/1857080687728368/) - Tomaž Štih
+- [Frontent vs backend](https://www.facebook.com/groups/developerji/permalink/1846714855431618/) - Klemen Klemen
 
 ## Iskanje rešitev 🔎 💡
 Med programiranjem velikokrat naletimo na oviro, kjer se nam zdi, da ni rešitve.
