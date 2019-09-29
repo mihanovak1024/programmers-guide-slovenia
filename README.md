@@ -22,6 +22,7 @@ Kazalo
 - [Podcasti](#podcasti--)
 - [Novice](#novice--)
 - [Službe](#službe---)
+    - [Plače](#plače)
     - [Slovenski seznam objav za delo](#slovenski-seznam-objav-za-delo--)
     - [Tuj seznam objav za delo](#tuj-seznam-objav-za-delo-)
         - [Seznam za remote dela](#seznam-za-remote-dela)
@@ -138,6 +139,7 @@ V svetu programiranja je vse od [dot-com booma](https://en.wikipedia.org/wiki/Do
 Zaradi tako velike zaposljivosti se programerji lahko kar konkretno zmišljujemo glede delovnega okolja, programerskih izzivov in seveda, **plačilne lestvice**.
 Ponudbe za delo se najdejo na večih spletnih straneh, nekaj izmed teh je naštetih na spodnjih seznamih.
 
+### Plače
 Za dobro plačo se je pa ponavadi potrebno pogajati in zagovarjati svoje tehnične sposobnosti. 
 Za pomoč pri pogajanju služi [ta članek](https://www.kalzumeus.com/2012/01/23/salary-negotiation).
 
