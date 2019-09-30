@@ -361,6 +361,7 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 - [Vim](https://www.vim.org)
 - [Emacs](https://www.gnu.org/software/emacs/)
 - [Notepad++](https://notepad-plus-plus.org)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 #### Terminali
 - [iTerm2](https://www.iterm2.com) - MacOS
