@@ -170,6 +170,7 @@ glede na tvoje tehnične sposobnosti in osebne preference.
 - [Zaposlitve SloTech](https://slo-tech.com/delo)
 - [MojeDelo - programiranje](https://www.mojedelo.com/prosta-delovna-mesta/racunalnistvo-programiranje)
 - [PovioLabs](https://www.poviolabs.com) - možnost projektnega dela (freelancing) ali redna zaposlitev
+- [TopŠiht](https://topsiht.si)
 
 ### Tuj seznam objav za delo 🌎
 Možnosti dela za neko podjetje za polni delovni čas so lahko on-site in remote.
