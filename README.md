@@ -32,6 +32,7 @@ Kazalo
     - [Osnovni koncepti](#osnovni-koncepti)
     - [Online tečaji](#online-tečaji)
     - [Poletne šole](#poletne-šole)
+    - [Hackathoni](#hackathoni)
     - [Knjige](#knjige-)
 - [Iskanje rešitev](#iskanje-rešitev--)
 - [Orodja](#orodja-)
@@ -51,6 +52,8 @@ Najbolj razširjena je prav zagotovo Facebook skupina [Slovenski developerji](ht
 - [Slovenski developerji](https://www.facebook.com/groups/developerji)
 - [Službe za developerje](https://www.facebook.com/groups/587337648113104)
 - [Slovenski junior developerji](https://www.facebook.com/groups/106192093326943)
+- [WordPress Slovenija](https://www.facebook.com/groups/wpslovenija/)
+- [Programerji](https://www.facebook.com/groups/242976319229784/)
 #### Slack
 - [Slovenian Tech Community](https://sloveniantech.herokuapp.com/)
 - [Slovenia Ruby User Group](http://slack.rug.si/)
@@ -164,6 +167,8 @@ glede na tvoje tehnične sposobnosti in osebne preference.
 - [Slovenski developerji](https://www.facebook.com/groups/developerji)
 - [Službe za developerje](https://www.facebook.com/groups/587337648113104)
 - Slack: [Slovenian Tech Community](https://sloveniantech.herokuapp.com/); channel #jobs
+- [Zaposlitve SloTech](https://slo-tech.com/delo)
+- [MojeDelo - programiranje](https://www.mojedelo.com/prosta-delovna-mesta/racunalnistvo-programiranje)
 - [PovioLabs](https://www.poviolabs.com) - možnost projektnega dela (freelancing) ali redna zaposlitev
 
 ### Tuj seznam objav za delo 🌎
@@ -240,6 +245,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
     - [Python](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
     - [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
     - [C](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+    - [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
     - [Javascipt](https://en.wikipedia.org/wiki/JavaScript)
     - [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
     - [shell skripte](https://en.wikipedia.org/wiki/Shell_script) (bash, zsh)
@@ -302,6 +308,16 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Poletna šola FRI](https://fri.uni-lj.si/sl/poletna-sola-fri) - Ljubljana
 - [Infinum Academy](https://infinum.co/the-capsized-eight/infinum-academy-is-feeling-slovenia) - Ljubljana
 - [Outfit7 talent camp](https://outfit7.com/talent-camp/) - Ljubljana
+- [Google Summer Of Code](https://summerofcode.withgoogle.com/)
+
+### Hackathoni
+Hackathon je tekmovanje kjer posamezne ekipe (ponavadi 2-5 članov) s svojim tehničnim znanjem 
+tekmujejo med seboj z realiziranimi idejami/rešitvami v roku 24 ur (lahko gre tudi za dvodnevni dogodek).
+
+V Sloveniji je potekalo že nekaj hackathonov ([Turistični hackathon](https://www.facebook.com/events/268573270463421/), [HackTravel](https://hack.travel), [FinTech Hackathon](http://www.hackathon.si) in drugi),
+letno pa se ponavlja predvsem DragonHack.
+- [DragonHack](https://dragonhack.si) - FRI, Ljubljana
+- [MajorLeagueHacking](https://mlh.io/) - Europe Hackathon events ([2019](https://mlh.io/seasons/eu-2019/events), [2020](https://mlh.io/seasons/eu-2020/events))
 
 #### Bonus
 - [Freelance četrtek](https://www.youtube.com/watch?v=gzjYAxt0cQs&list=PLXvbm3tur0sALLgdTcpEHou0HdcbJ9xwI) - Miha Medven
