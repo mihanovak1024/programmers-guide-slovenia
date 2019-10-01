@@ -20,13 +20,15 @@ Kazalo
     - [Forumi](#forumi)
 - [Meetupi](#meetupi---)
 - [Podcasti](#podcasti--)
+    - [Slovenski podcasti](#slovenski-podcasti)
+    - [Tuji podcasti](#tuji-podcasti)
 - [Novice](#novice--)
 - [Službe](#službe---)
     - [Plače](#plače)
-    - [Slovenski seznam objav za delo](#slovenski-seznam-objav-za-delo--)
-    - [Tuj seznam objav za delo](#tuj-seznam-objav-za-delo-)
-        - [Seznam za remote dela](#seznam-za-remote-dela)
-        - [Seznam za on-site dela](#seznam-za-on-site-dela)
+    - [Slovenske objave za delo](#slovenske-objave-za-delo--)
+    - [Tuje objave za delo](#tuje-objave-za-delo-)
+        - [Remote dela](#remote-dela)
+        - [On-site dela](#on-site-dela)
 - [Izobrazba](#izobrazba---)
     - [Fakultete](#fakultete)
     - [Osnovni koncepti](#osnovni-koncepti)
@@ -54,11 +56,14 @@ Najbolj razširjena je prav zagotovo Facebook skupina [Slovenski developerji](ht
 - [Slovenski junior developerji](https://www.facebook.com/groups/106192093326943)
 - [WordPress Slovenija](https://www.facebook.com/groups/wpslovenija/)
 - [Programerji](https://www.facebook.com/groups/242976319229784/)
+
 #### Slack
 - [Slovenian Tech Community](https://sloveniantech.herokuapp.com/)
 - [Slovenia Ruby User Group](http://slack.rug.si/)
+
 #### Forumi
 - [SloTech](https://slo-tech.com/forum)
+
 #### Reddit
 - [slodev](https://www.reddit.com/r/slodev/)
 
@@ -70,16 +75,17 @@ Na omenjeni spletni strani so ustvarjene skupine, ki združujejo meetupe glede n
 Najlažje spremljanje teh dogodkov/meetupov je s prijavo v [Meetup](https://www.meetup.com/) in pridružitvijo v skupine, glede na lastne interese.
 
 Na teh dogodkih se ponavadi odvijajo razne predstavitve/talki, po katerih sledi druženje med obiskovalci.
-### Seznam skupin
+
+### Seznam meetupov
 Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani - _DISCLAIMER: zna biti outdated podatek_).
 
-#### Splošne skupine
+#### Splošni meetupi
 - [Čez glavo v #vblatu](https://www.meetup.com/vblatu/) | 2315
 - [ProductTank Slovenia](https://www.meetup.com/ProductTank-Slovenia/) | 516
 - [Digital Freelancers](https://www.meetup.com/Digital-Freelancing/) | 259
 - [GDG Ljubljana](https://www.meetup.com/GDG-Ljubljana/) | 202
 
-#### Specifične tehnične skupine
+#### Specifični tehnični meetupi
 - [JavaScript Ljubljana](https://www.meetup.com/Ljubljana-JavaScript-User-Group/) | 1151
 - [Ljubljana Python User Group](https://www.meetup.com/Ljubljana-Python-Group/) | 1070
 - [Data Science Slovenia](https://www.meetup.com/Data-Science-Slovenia/) | 839
@@ -122,6 +128,7 @@ Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne 
 - [Inside Remote](https://www.listennotes.com/podcasts/inside-remote-andrej-fodor-KNCu9YikUts/) - Andrej Fodor
 - [Tandem](http://www.poslusajtandem.si) - Romina Kavčič
 - [Odbita do bita](https://val202.rtvslo.si/odbita) - Maruša Kerec, Anže Tomić
+
 ### Tuji podcasti
 - [Soft Skills Engineering](https://softskills.audio/)
 - [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
@@ -167,7 +174,7 @@ Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne 
 Vsak developer/programer mora biti na tekočem z najnovejšimi tehnologijami. 
 Nekaj najnovejših novic/težav/rešitev so na dnevnem nivoju obljavljene na naslednjih straneh.
 
-### Seznam strani za spremljanje novic
+### Strani za spremljanje novic
 - [SloTech](https://slo-tech.com)
 - [HackerNews](https://news.ycombinator.com)
 - [Reddit r/programming](https://www.reddit.com/r/programming/)
@@ -191,7 +198,7 @@ Ankete o plačah narejene na Facebook strani Slovenski developerji (~5000 develo
 - [Anketa o plačah 2018](https://medium.com/@mihec.susnik/pla%C4%8De-razvijalcev-2018-7a71d4befb1)
 - [Anketa o plačah 2019](https://medium.com/@mihec.susnik/plače-razvijalcev-2019-8f5b20691f3e)
 
-#### Seznam strani za informacijo o plačah
+#### Strani za informacijo o plačah
 - [Glassdoor](https://www.glassdoor.com/index.htm)
 - [levels.fyi](https://www.levels.fyi)
 
@@ -203,7 +210,7 @@ Na kratko; [LinkedIn](https://www.linkedin.com/) je poslovno socialno omrežje z
 Veliko služb je objavljenih na tej strani, velikokrat pa te tako imenovani [rekruterji](http://www.businessdictionary.com/definition/recruiter.html) direktno obvestijo o odprtih pozicijah pri nekem podjetju,
 glede na tvoje tehnične sposobnosti in osebne preference.    
 
-### Slovenski seznam objav za delo  🇸🇮
+### Slovenske objave za delo  🇸🇮
 - [Slovenski developerji](https://www.facebook.com/groups/developerji)
 - [Službe za developerje](https://www.facebook.com/groups/587337648113104)
 - Slack: [Slovenian Tech Community](https://sloveniantech.herokuapp.com/); channel #jobs
@@ -212,7 +219,7 @@ glede na tvoje tehnične sposobnosti in osebne preference.
 - [PovioLabs](https://www.poviolabs.com) - možnost projektnega dela (freelancing) ali redna zaposlitev
 - [TopŠiht](https://topsiht.si)
 
-### Tuj seznam objav za delo 🌎
+### Tuje objave za delo 🌎
 Možnosti dela za neko podjetje za polni delovni čas so lahko on-site in remote.
 
 
@@ -227,7 +234,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Awesome workplaces in Slovenia](https://github.com/otobrglez/awesome-workplaces-slovenia) - Oto Brglez
 - [Pozna kdo kak open office v Ljubljani?](https://www.facebook.com/groups/developerji/permalink/977736778996101/) - Rok Samsa
 
-#### Seznam za remote dela
+#### Remote dela
 - [Freelancer](http://freelancer.com/) - freelancing
 - [UpWork](http://upwork.com/) - freelancing
 - [RemoteOK](https://remoteok.io)
@@ -237,7 +244,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Zbirka remote služb - Remotive.io](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
 - [Zbirka freelance platform in podjetij, ki omogocajo remote delo](https://docs.google.com/spreadsheets/u/1/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview)
 
-#### Seznam za on-site dela
+#### On-site dela
 - [HackerNews jobs](https://news.ycombinator.com/jobs) - SilliconValley startupi
 - [StackOverflow jobs](https://stackoverflow.com/jobs)
 - [AngelList](https://angel.co/) - startupi
@@ -334,16 +341,16 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 
 #### Članki
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+
 #### Zbirke literature 📖
 - [Zbirka raznih programerskih tem](https://github.com/sindresorhus/awesome)
 - [Zapiski programerskih tem](https://github.com/darshanime/notes)
 
 ### Tečaji programiranja
-
+#### On-site
 - [SmartNinja, šola programiranja](https://www.smartninja.si) - Ljubljana & Maribor
 
-### Online tečaji
-
+#### Online
 - [Udacity](https://www.udacity.com)
 - [Coursera](https://www.coursera.org)
 - [Udemy](https://www.udemy.com)
@@ -439,7 +446,6 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 #### Zbirke orodij za študente
 - [GitHub Education Pack](https://education.github.com/pack) - veliko orodij in creditov za študente
 - [IntelliJ for Students](https://www.jetbrains.com/student/) - zastonj IntelliJ professional licence za študente
-
 
 ## Zanimivosti 😮 🙌
 Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
