@@ -297,8 +297,12 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Zbirka raznih programerskih tem](https://github.com/sindresorhus/awesome)
 - [Zapiski programerskih tem](https://github.com/darshanime/notes)
 
+### Tečaji programiranja
+
+- [SmartNinja, šola programiranja](https://www.smartninja.si) - Ljubljana & Maribor
+
 ### Online tečaji
-- [SmartNinja](https://www.smartninja.si) - Ljubljana
+
 - [Udacity](https://www.udacity.com)
 - [Coursera](https://www.coursera.org)
 - [Udemy](https://www.udemy.com)
