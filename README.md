@@ -59,7 +59,8 @@ Najbolj razširjena je prav zagotovo Facebook skupina [Slovenski developerji](ht
 - [Slovenia Ruby User Group](http://slack.rug.si/)
 #### Forumi
 - [SloTech](https://slo-tech.com/forum)
-
+#### Reddit
+- [slodev](https://www.reddit.com/r/slodev/)
 
 ## Meetupi 👨‍🏫 👨‍🎓 🍻
 
