@@ -115,12 +115,15 @@ Podcasti so intervjuji/pogovori v audio obliki.
 
 Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne moti pri opravljanju ostalih opravil.
 
-### Seznam podcastov
+### Slovenski podcasti
+- [Zakulisje](http://www.alenf.com/zakulisje) - Alen Faljić
+- [Parallel Passion](https://www.parallelpassion.com/) - Miha Rekar
+- [Do mikrofona v #vblatu](https://podcasti.si/do-mikrofona-v-vblatu/) - Andraž Tori
+- [Inside Remote](https://www.listennotes.com/podcasts/inside-remote-andrej-fodor-KNCu9YikUts/) - Andrej Fodor
+- [Tandem](http://www.poslusajtandem.si) - Romina Kavčič
+- [Odbita do bita](https://val202.rtvslo.si/odbita) - Maruša Kerec, Anže Tomić
+### Tuji podcasti
 - [Soft Skills Engineering](https://softskills.audio/)
-- [Zakulisje](http://www.alenf.com/zakulisje)
-- [Parallel Passion](https://www.parallelpassion.com/)
-- [Do mikrofona v #vblatu](https://podcasti.si/do-mikrofona-v-vblatu/)
-- [Inside Remote](https://www.listennotes.com/podcasts/inside-remote-andrej-fodor-KNCu9YikUts/)
 - [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
 - [Indie Hackers](https://www.indiehackers.com/podcast)
 - [Base.cs Podcast](https://www.codenewbie.org/basecs)
@@ -131,7 +134,6 @@ Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne 
 - [Laravel News Podcast](https://laravel-news.com/podcast)
 - [Behind The Tech](https://www.microsoft.com/en-us/behind-the-tech)
 - [Rework](https://rework.fm/)
-- [Odbita do bita](https://val202.rtvslo.si/odbita)
 - [Laracasts Snippet](https://laracasts.audio/)
 - [devpath.fm](https://devpath.fm)
 - [The Changelog](https://changelog.com/podcast)
