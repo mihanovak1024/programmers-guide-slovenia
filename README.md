@@ -273,6 +273,9 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Fakulteta za računalništvo in informatiko](https://www.fri.uni-lj.si/sl) - Ljubljana
 - [Fakulteta za elektrotehniko, računalništvo in informatiko](https://feri.um.si) - Maribor
 - [Fakulteta za organizacijske vede](https://fov.um.si/sl) (organizacijska informatika) - Kranj
+- [Fakulteta za informacijske študije](https://www.fis.unm.si/si/) - Novo Mesto
+- [Almamater](https://www.almamater.si/spletne-in-informacijske-tehnologije-c29) (Spletne in informacijske tehnologije) - Ljubljana, Maribor, online
+- [Doba](https://www.doba.si/visja-strokovna-sola/kombinirana-studijska-pot/informatika) (Informatika) - Maribor
 
 ### Osnovni koncepti
 - Tipi programiranja
