@@ -193,6 +193,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [RemoteOK](https://remoteok.io)
 - [WeWorkRemotely](https://weworkremotely.com)
 - [Nomadlist](https://nomadlist.com)
+- [CW Jobs](https://www.cwjobs.co.uk/)
 - [Zbirka remote služb - Remotive.io](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
 - [Zbirka freelance platform in podjetij, ki omogocajo remote delo](https://docs.google.com/spreadsheets/u/1/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview)
 
