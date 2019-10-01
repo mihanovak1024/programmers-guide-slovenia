@@ -420,8 +420,7 @@ Za čimbolj efektivno delo programerja so prav zagotovo odgovorna tudi njegova o
 
 Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) oziroma [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), terminal in Google.
 
-### Orodja za razvoj
-#### IDE
+### IDE
 - [IntelliJ](https://www.jetbrains.com/idea/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [VisualStudio](https://visualstudio.microsoft.com)
@@ -430,7 +429,7 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 - [Eclipse](https://www.eclipse.org)
 - [NetBeans](https://netbeans.org)
 
-#### Urejevalniki besedil (Text Editors)
+### Urejevalniki besedil (Text Editors)
 - [SublimeText](https://www.sublimetext.com)
 - [Atom](https://atom.io)
 - [Vim](https://www.vim.org)
@@ -438,17 +437,21 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 - [Notepad++](https://notepad-plus-plus.org)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-#### Terminali
+### Terminali
 - [iTerm2](https://www.iterm2.com) - MacOS
 - [CMD](https://en.wikipedia.org/wiki/Cmd.exe) - Windows
 - [Ubuntu terminal](https://help.ubuntu.com/community/UsingTheTerminal?action=show&redirect=BasicCommands) - Ubuntu
 
-#### Browser plugini
+### Browser plugini
 - [Vimium](https://vimium.github.io)
 
-#### Zbirke orodij za študente
-- [GitHub Education Pack](https://education.github.com/pack) - veliko orodij in creditov za študente
-- [IntelliJ for Students](https://www.jetbrains.com/student/) - zastonj IntelliJ professional licence za študente
+### Zbirke orodij
+#### Splošne
+- [Undesign](https://undesign.learn.uno/) - brezplačna orodja za programerje in ustvarjalce
+
+#### Za študente
+- [GitHub Education Pack](https://education.github.com/pack) - orodja in crediti za študente
+- [IntelliJ for Students](https://www.jetbrains.com/student/) - brezplačne IntelliJ professional licence za študente
 
 ## Zanimivosti 😮 🙌
 Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
