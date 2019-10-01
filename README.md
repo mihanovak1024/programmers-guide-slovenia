@@ -450,8 +450,8 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 - [Undesign](https://undesign.learn.uno/) - brezplačna orodja za programerje in ustvarjalce
 
 #### Za študente
-- [GitHub Education Pack](https://education.github.com/pack) - orodja in crediti za študente
-- [IntelliJ for Students](https://www.jetbrains.com/student/) - brezplačne IntelliJ professional licence za študente
+- [GitHub Education Pack](https://education.github.com/pack) - orodja in crediti
+- [IntelliJ for Students](https://www.jetbrains.com/student/) - brezplačne IntelliJ professional licence
 
 ## Zanimivosti 😮 🙌
 Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
