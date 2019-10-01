@@ -388,6 +388,10 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 #### Browser plugini
 - [Vimium](https://vimium.github.io)
 
+#### Zbirke orodij za študente
+- [GitHub Education Pack](https://education.github.com/pack) - veliko orodij in creditov za študente
+- [IntelliJ for Students](https://www.jetbrains.com/student/) - zastonj IntelliJ professional licence za študente
+
 
 ## Zanimivosti 😮 🙌
 Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
