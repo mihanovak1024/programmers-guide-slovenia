@@ -476,3 +476,4 @@ Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
 - [@morpheus7CS](https://github.com/morpheus7CS)
 - [@gregopet](https://github.com/gregopet)
 - [@ramuta](https://github.com/ramuta)
+- [@lovenjak](https://github.com/lovenjak)
