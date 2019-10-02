@@ -115,6 +115,7 @@ Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani 
 - [Ljubljana Hardware Meetup](https://www.meetup.com/Ljubljana-Hardware-Meetup/) | 199
 - [Backend developers of Ljubljana](https://www.meetup.com/Backend-developers-of-Ljubljana/) | 179
 - [3fs Open House Events](https://www.meetup.com/3fs-openhouse/) | 168
+- [GeoDev Slovenia](https://www.meetup.com/GeoDev-Meetup-Slovenia/) | 154
 
 ## Podcasti 🎙 🎧
 Podcasti so intervjuji/pogovori v audio obliki. 
