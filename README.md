@@ -255,6 +255,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [StackOverflow jobs](https://stackoverflow.com/jobs)
 - [AngelList](https://angel.co/) - startupi
 - [Indeed](https://www.indeed.com)
+- [HackerNews - Who is hiring?](https://news.ycombinator.com/item?id=21126014) - October 2019
 
 ### Pogovori v skupini Slovenski Developerji na to temo
 - [Iskanje Remote Dela](https://www.facebook.com/groups/developerji/permalink/1768477156588722/) - Andreas Komočar
