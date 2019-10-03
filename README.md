@@ -476,7 +476,7 @@ Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
 
 ## Sodelujoči 🎖
 > V kolikor sem koga pozabil, me prosim opomnite na [@mihanovak1024](https://twitter.com/mihanovak1024) oziroma naredite [nov pull-request](https://github.com/mihanovak1024/programmers-guide-slovenia/pulls).
-- [@mihanovak1024](https://github.com/mihanovak1024) | [Twitter](https://twitter.com/mihanovak1024)
+- [@mihanovak1024](https://twitter.com/mihanovak1024)
 - [@alekzs](https://github.com/alekzs)
 - [@mhojnik](https://github.com/mhojnik)
 - [@tehnuty](https://github.com/tehnuty)
@@ -484,3 +484,4 @@ Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
 - [@gregopet](https://github.com/gregopet)
 - [@ramuta](https://github.com/ramuta)
 - [@lovenjak](https://github.com/lovenjak)
+- [@JureMalovrh](https://github.com/JureMalovrh)
