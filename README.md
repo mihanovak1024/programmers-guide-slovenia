@@ -363,6 +363,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [TailwindCSS](https://tailwindcss.com/screencasts/)
 - [Laracasts - Laravel from Scratch](laravelfromscratch.com)
 - [Laracasts - Learn Vue: Step by Step](http://vuecasts.com/)
+- [Freecodecamp](https://www.freecodecamp.org/)
 
 ### Poletne šole
 - [Poletna šola FRI](https://fri.uni-lj.si/sl/poletna-sola-fri) - Ljubljana
