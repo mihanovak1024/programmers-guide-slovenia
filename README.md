@@ -111,11 +111,15 @@ Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani 
 - [MakeIT Meetup](https://www.meetup.com/meetup-group-MakeIT/) | 228
 - [Ljubljana Lambdas](https://www.meetup.com/Ljubljana-Lambdas/) | 216
 - [1337 Tech Ljubljana](https://www.meetup.com/1337-Tech-Ljubljana/) | 210
-- [MariborJS - Javascript Meetups](https://www.meetup.com/MariborJS/) | 208
 - [Ljubljana Hardware Meetup](https://www.meetup.com/Ljubljana-Hardware-Meetup/) | 199
 - [Backend developers of Ljubljana](https://www.meetup.com/Backend-developers-of-Ljubljana/) | 179
 - [3fs Open House Events](https://www.meetup.com/3fs-openhouse/) | 168
 - [GeoDev Slovenia](https://www.meetup.com/GeoDev-Meetup-Slovenia/) | 154
+
+#### Meetupi Maribor
+- [MariborJS - Javascript Meetups](https://www.meetup.com/MariborJS/) | 208
+- [Maribor Hardware Meetup](https://www.meetup.com/Maribor-Hardware-Meetup/) | 79
+- [Spletne urice Maribor](meetup.com/Spletne-urice-Maribor/) | 50
 
 ## Podcasti 🎙 🎧
 Podcasti so intervjuji/pogovori v audio obliki. 
@@ -219,6 +223,7 @@ glede na tvoje tehnične sposobnosti in osebne preference.
 - [MojeDelo - programiranje](https://www.mojedelo.com/prosta-delovna-mesta/racunalnistvo-programiranje)
 - [PovioLabs](https://www.poviolabs.com) - možnost projektnega dela (freelancing) ali redna zaposlitev
 - [TopŠiht](https://topsiht.si)
+- [StartupJob](https://www.startupjob.si) + [TedenskiNovičnik](https://www.internetweek.si/sl/) - Nataša Pirnat
 
 ### Tuje objave za delo 🌎
 Možnosti dela za neko podjetje za polni delovni čas so lahko on-site in remote.
