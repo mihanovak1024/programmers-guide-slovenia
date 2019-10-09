@@ -371,6 +371,10 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Laracasts - Learn Vue: Step by Step](http://vuecasts.com/)
 - [Freecodecamp](https://www.freecodecamp.org/)
 
+#### Bonus
+- [Freelance četrtek](https://www.youtube.com/watch?v=gzjYAxt0cQs&list=PLXvbm3tur0sALLgdTcpEHou0HdcbJ9xwI) - Miha Medven
+- [Brezplačni PHP tečaj](https://www.php-tecaj.si/) - Anže Šuštar, Marko Štamcar
+
 ### Poletne šole
 - [Poletna šola FRI](https://fri.uni-lj.si/sl/poletna-sola-fri) - Ljubljana
 - [Infinum Academy](https://infinum.co/the-capsized-eight/infinum-academy-is-feeling-slovenia) - Ljubljana
@@ -385,10 +389,6 @@ V Sloveniji je potekalo že nekaj hackathonov ([Turistični hackathon](https://w
 letno pa se ponavlja predvsem DragonHack.
 - [DragonHack](https://dragonhack.si) - FRI, Ljubljana
 - [MajorLeagueHacking](https://mlh.io/) - Europe Hackathon events ([2019](https://mlh.io/seasons/eu-2019/events), [2020](https://mlh.io/seasons/eu-2020/events))
-
-#### Bonus
-- [Freelance četrtek](https://www.youtube.com/watch?v=gzjYAxt0cQs&list=PLXvbm3tur0sALLgdTcpEHou0HdcbJ9xwI) - Miha Medven
-- [Brezplačni PHP tečaj](https://www.php-tecaj.si/) - Anže Šuštar, Marko Štamcar
 
 ### Knjige 📚
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1) (20th anniversary) - Andy Hunt, Dave Thomas
