@@ -56,6 +56,7 @@ Najbolj razširjena je prav zagotovo Facebook skupina [Slovenski developerji](ht
 - [Slovenski junior developerji](https://www.facebook.com/groups/106192093326943)
 - [WordPress Slovenija](https://www.facebook.com/groups/wpslovenija/)
 - [Programerji](https://www.facebook.com/groups/242976319229784/)
+- [Spletni programerji](https://www.facebook.com/groups/158003467603274)
 
 #### Slack
 - [Slovenian Tech Community](https://sloveniantech.herokuapp.com/)
@@ -283,6 +284,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Fakulteta za informacijske študije](https://www.fis.unm.si/si/) - Novo Mesto
 - [Almamater](https://www.almamater.si/spletne-in-informacijske-tehnologije-c29) (Spletne in informacijske tehnologije) - Ljubljana, Maribor, online
 - [Doba](https://www.doba.si/visja-strokovna-sola/kombinirana-studijska-pot/informatika) (Informatika) - Maribor
+- [UP Famnit](https://www.famnit.upr.si/sl/) - Koper
 
 ### Osnovni koncepti
 - Tipi programiranja
