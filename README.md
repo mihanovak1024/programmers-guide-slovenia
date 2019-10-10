@@ -488,3 +488,4 @@ Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
 - [@ramuta](https://github.com/ramuta)
 - [@lovenjak](https://github.com/lovenjak)
 - [@JureMalovrh](https://github.com/JureMalovrh)
+- [@zigacernigoj](https://github.com/zigacernigoj)
