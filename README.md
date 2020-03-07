@@ -120,7 +120,7 @@ Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani 
 #### Meetupi Maribor
 - [MariborJS - Javascript Meetups](https://www.meetup.com/MariborJS/) | 208
 - [Maribor Hardware Meetup](https://www.meetup.com/Maribor-Hardware-Meetup/) | 79
-- [Spletne urice Maribor](meetup.com/Spletne-urice-Maribor/) | 50
+- [Spletne urice Maribor](https://www.meetup.com/Spletne-urice-Maribor/) | 50
 
 ## Podcasti 🎙 🎧
 Podcasti so intervjuji/pogovori v audio obliki. 
