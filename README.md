@@ -494,3 +494,4 @@ Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
 - [@lovenjak](https://github.com/lovenjak)
 - [@JureMalovrh](https://github.com/JureMalovrh)
 - [@zigacernigoj](https://github.com/zigacernigoj)
+- [@smlu](https://github.com/smlu)
