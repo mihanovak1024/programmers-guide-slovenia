@@ -30,9 +30,9 @@ Kazalo
         - [Remote dela](#remote-dela)
         - [On-site dela](#on-site-dela)
 - [Izobrazba](#izobrazba---)
-    - [Fakultete](#fakultete)
     - [Osnovni koncepti](#osnovni-koncepti)
-    - [Online tečaji](#online-tečaji)
+    - [Fakultete](#fakultete)
+    - [Tečaji](#tečaji-programiranja)
     - [Poletne šole](#poletne-šole)
     - [Hackathoni](#hackathoni)
     - [Knjige](#knjige-)
@@ -81,46 +81,48 @@ Na teh dogodkih se ponavadi odvijajo razne predstavitve/talki, po katerih sledi 
 Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani - _DISCLAIMER: zna biti outdated podatek_).
 
 #### Splošni meetupi
-- [Čez glavo v #vblatu](https://www.meetup.com/vblatu/) | 2315
-- [ProductTank Slovenia](https://www.meetup.com/ProductTank-Slovenia/) | 516
-- [Digital Freelancers](https://www.meetup.com/Digital-Freelancing/) | 259
-- [GDG Ljubljana](https://www.meetup.com/GDG-Ljubljana/) | 202
+- [Čez glavo v #vblatu](https://www.meetup.com/vblatu/) | 2392
+- [ProductTank Slovenia](https://www.meetup.com/ProductTank-Slovenia/) | 573
+- [Digital Freelancers](https://www.meetup.com/Digital-Freelancing/) | 391
+- [GDG Ljubljana](https://www.meetup.com/GDG-Ljubljana/) | 217
+- [Remote Work Slovenija](https://www.meetup.com/Remote-Work-Slovenia/) | 125
 
 #### Specifični tehnični meetupi
-- [JavaScript Ljubljana](https://www.meetup.com/Ljubljana-JavaScript-User-Group/) | 1151
-- [Ljubljana Python User Group](https://www.meetup.com/Ljubljana-Python-Group/) | 1070
-- [Data Science Slovenia](https://www.meetup.com/Data-Science-Slovenia/) | 839
-- [PHP Developers Slovenia](https://www.meetup.com/php-si/) | 736
-- [Deep Learning Ljubljana](https://www.meetup.com/deep-learning-ljubljana/) | 708
-- [Big Data Developers in Slovenia](https://www.meetup.com/Big-Data-Developers-in-Slovenia/) | 705
-- [D-Talk](https://www.meetup.com/D-Talk/) | 695
-- [WordPress Ljubljana](https://www.meetup.com/WordPress-Ljubljana/) | 677
-- [Android Meetup Slovenija](https://www.meetup.com/Android-Development-Slovenija/) | 643
-- [DevOps Slovenia](https://www.meetup.com/DevOps-Slovenia/) | 551
-- [UX SLOVENIA](https://www.meetup.com/UX-SLOVENIA/) | 507
-- [Ljubljana QA Meetup](https://www.meetup.com/Ljubljana-QA-meetup/) | 486
-- [PyData Ljubljana Meetup](https://www.meetup.com/PyData-Slovenia-Meetup/) | 397
-- [OpenBlend - Slovenian Java User Group](https://www.meetup.com/OpenBlend-Slovenian-Java-User-Group/) | 395
-- [SloGameDev Meetup](https://www.meetup.com/SloGameDev/) | 395
-- [Scrum Slovenia Meetup](https://www.meetup.com/Slovenia-Scrum-Meetup/) | 373
-- [Blockchain Developers Meetup](https://www.meetup.com/Blockchain-Developers-Ljubljana/) | 366
-- [Vue.js Slovenia](https://www.meetup.com/vue-slovenia/) | 363
-- [CocoaHeads Slovenija](https://www.meetup.com/CocoaHeads-Slovenija/) | 305
-- [Angular Slovenia](https://www.meetup.com/ng-slo/) | 299
-- [Slovenia Ruby User Group](https://www.meetup.com/RubySlovenia/) | 268
-- [SecTalks Ljubljana](https://www.meetup.com/SecTalks-Ljubljana/) | 252
-- [MakeIT Meetup](https://www.meetup.com/meetup-group-MakeIT/) | 228
-- [Ljubljana Lambdas](https://www.meetup.com/Ljubljana-Lambdas/) | 216
-- [1337 Tech Ljubljana](https://www.meetup.com/1337-Tech-Ljubljana/) | 210
-- [Ljubljana Hardware Meetup](https://www.meetup.com/Ljubljana-Hardware-Meetup/) | 199
-- [Backend developers of Ljubljana](https://www.meetup.com/Backend-developers-of-Ljubljana/) | 179
-- [3fs Open House Events](https://www.meetup.com/3fs-openhouse/) | 168
-- [GeoDev Slovenia](https://www.meetup.com/GeoDev-Meetup-Slovenia/) | 154
+- [JavaScript Ljubljana](https://www.meetup.com/Ljubljana-JavaScript-User-Group/) | 1264
+- [Ljubljana Python User Group](https://www.meetup.com/Ljubljana-Python-Group/) | 1171
+- [Data Science Slovenia](https://www.meetup.com/Data-Science-Slovenia/) | 972
+- [Ethereum Slovenia](https://www.meetup.com/Ethereum-Slovenia/) | 901
+- [Deep Learning Ljubljana](https://www.meetup.com/deep-learning-ljubljana/) | 837
+- [PHP Developers Slovenia](https://www.meetup.com/php-si/) | 783
+- [Data, Cloud and AI in Slovenia](https://www.meetup.com/Big-Data-Developers-in-Slovenia/) | 751
+- [WordPress Ljubljana](https://www.meetup.com/WordPress-Ljubljana/) | 748
+- [D-Talk](https://www.meetup.com/D-Talk/) | 697
+- [Android Meetup Slovenija](https://www.meetup.com/Android-Development-Slovenija/) | 689
+- [DevOps Slovenia](https://www.meetup.com/DevOps-Slovenia/) | 621
+- [1337 Tech Ljubljana](https://www.meetup.com/1337-Tech-Ljubljana/) | 603
+- [UX SLOVENIA](https://www.meetup.com/UX-SLOVENIA/) | 558
+- [Ljubljana QA Meetup](https://www.meetup.com/Ljubljana-QA-meetup/) | 504
+- [PyData Ljubljana Meetup](https://www.meetup.com/PyData-Slovenia-Meetup/) | 485
+- [SloGameDev Meetup](https://www.meetup.com/SloGameDev/) | 476
+- [Scrum Slovenia Meetup](https://www.meetup.com/Slovenia-Scrum-Meetup/) | 473
+- [OpenBlend - Slovenian Java User Group](https://www.meetup.com/OpenBlend-Slovenian-Java-User-Group/) | 440
+- [Vue.js Slovenia](https://www.meetup.com/vue-slovenia/) | 429
+- [Blockchain Developers Meetup](https://www.meetup.com/Blockchain-Developers-Ljubljana/) | 372
+- [Angular Slovenia](https://www.meetup.com/ng-slo/) | 308
+- [CocoaHeads Slovenija](https://www.meetup.com/CocoaHeads-Slovenija/) | 307
+- [SecTalks Ljubljana](https://www.meetup.com/SecTalks-Ljubljana/) | 297
+- [Backend developers of Ljubljana](https://www.meetup.com/Backend-developers-of-Ljubljana/) | 287
+- [Ljubljana Hardware Meetup](https://www.meetup.com/Ljubljana-Hardware-Meetup/) | 273
+- [Slovenia Ruby User Group](https://www.meetup.com/RubySlovenia/) | 264
+- [Ljubljana Lambdas](https://www.meetup.com/Ljubljana-Lambdas/) | 247
+- [3fs Open House Events](https://www.meetup.com/3fs-openhouse/) | 197
+- [GeoDev Slovenia](https://www.meetup.com/GeoDev-Meetup-Slovenia/) | 172
 
 #### Meetupi Maribor
-- [MariborJS - Javascript Meetups](https://www.meetup.com/MariborJS/) | 208
-- [Maribor Hardware Meetup](https://www.meetup.com/Maribor-Hardware-Meetup/) | 79
-- [Spletne urice Maribor](https://www.meetup.com/Spletne-urice-Maribor/) | 50
+- [MariborJS - Javascript Meetups](https://www.meetup.com/MariborJS/) | 217
+- [ShareIT Maribor](https://www.meetup.com/ShareIT-Maribor/) | 131
+- [Spletne urice Maribor](https://wwwhmb.si/) | 100+
+- [Maribor Hardware Meetup](https://www.meetup.com/Maribor-Hardware-Meetup/) | 99
 
 ## Podcasti 🎙 🎧
 Podcasti so intervjuji/pogovori v audio obliki. 
@@ -277,15 +279,6 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 
 ## Izobrazba 🏛 📚 📈
 
-### Fakultete
-- [Fakulteta za računalništvo in informatiko](https://www.fri.uni-lj.si/sl) - Ljubljana
-- [Fakulteta za elektrotehniko, računalništvo in informatiko](https://feri.um.si) - Maribor
-- [Fakulteta za organizacijske vede](https://fov.um.si/sl) (organizacijska informatika) - Kranj
-- [Fakulteta za informacijske študije](https://www.fis.unm.si/si/) - Novo Mesto
-- [Almamater](https://www.almamater.si/spletne-in-informacijske-tehnologije-c29) (Spletne in informacijske tehnologije) - Ljubljana, Maribor, online
-- [Doba](https://www.doba.si/visja-strokovna-sola/kombinirana-studijska-pot/informatika) (Informatika) - Maribor
-- [UP Famnit](https://www.famnit.upr.si/sl/) - Koper
-
 ### Osnovni koncepti
 - Tipi programiranja
     - [Frontend](https://en.wikipedia.org/wiki/Front-end_web_development)
@@ -363,11 +356,21 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Zbirka raznih programerskih tem](https://github.com/sindresorhus/awesome)
 - [Zapiski programerskih tem](https://github.com/darshanime/notes)
 
+### Fakultete
+- [Fakulteta za računalništvo in informatiko](https://www.fri.uni-lj.si/sl) - Ljubljana
+- [Fakulteta za elektrotehniko, računalništvo in informatiko](https://feri.um.si) - Maribor
+- [Fakulteta za organizacijske vede](https://fov.um.si/sl) (organizacijska informatika) - Kranj
+- [Fakulteta za informacijske študije](https://www.fis.unm.si/si/) - Novo Mesto
+- [Almamater](https://www.almamater.si/spletne-in-informacijske-tehnologije-c29) (Spletne in informacijske tehnologije) - Ljubljana, Maribor, online
+- [Doba](https://www.doba.si/visja-strokovna-sola/kombinirana-studijska-pot/informatika) (Informatika) - Maribor
+- [UP Famnit](https://www.famnit.upr.si/sl/) - Koper
+
 ### Tečaji programiranja
 #### On-site
 - [SmartNinja, šola programiranja](https://www.smartninja.si) - Ljubljana & Maribor
 
 #### Online
+- [SmartNinja, šola programiranja](https://www.smartninja.si) - po novem tudi online tečaji (v slovenščini)
 - [Udacity](https://www.udacity.com)
 - [Coursera](https://www.coursera.org)
 - [Udemy](https://www.udemy.com)
