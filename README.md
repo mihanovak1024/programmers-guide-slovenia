@@ -205,6 +205,7 @@ Za pomoč pri pogajanju služi [ta članek](https://www.kalzumeus.com/2012/01/23
 Ankete o plačah narejene na Facebook strani Slovenski developerji (~5000 developerjev).
 - [Anketa o plačah 2018](https://medium.com/@mihec.susnik/pla%C4%8De-razvijalcev-2018-7a71d4befb1)
 - [Anketa o plačah 2019](https://medium.com/@mihec.susnik/plače-razvijalcev-2019-8f5b20691f3e)
+- [Anketa o plačah 2020](https://medium.com/@mihec.susnik/pla%C4%8De-razvijalcev-2020-f7c719704ab2)
 
 #### Strani za informacijo o plačah
 - [Glassdoor](https://www.glassdoor.com/index.htm)
