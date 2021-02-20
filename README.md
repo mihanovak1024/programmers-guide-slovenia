@@ -153,6 +153,7 @@ Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne 
 - [devpath.fm](https://devpath.fm)
 - [The Changelog](https://changelog.com/podcast)
 - [Dads in Dev](https://dadsindev.com)
+- [CppCast](https://cppcast.com/)
 - [Full Stack Radio](https://fullstackradio.com/)
 - [North Meets South](http://northmeetssouth.audio/)
 - [Views on Vue](https://devchat.tv/views-on-vue)
@@ -205,6 +206,7 @@ Za pomoč pri pogajanju služi [ta članek](https://www.kalzumeus.com/2012/01/23
 Ankete o plačah narejene na Facebook strani Slovenski developerji (~5000 developerjev).
 - [Anketa o plačah 2018](https://medium.com/@mihec.susnik/pla%C4%8De-razvijalcev-2018-7a71d4befb1)
 - [Anketa o plačah 2019](https://medium.com/@mihec.susnik/plače-razvijalcev-2019-8f5b20691f3e)
+- [Anketa o plačah 2020](https://medium.com/@mihec.susnik/pla%C4%8De-razvijalcev-2020-f7c719704ab2)
 
 #### Strani za informacijo o plačah
 - [Glassdoor](https://www.glassdoor.com/index.htm)
@@ -291,10 +293,37 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
     - [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
     - [Unix](https://en.wikipedia.org/wiki/Unix)
         - [MacOS](https://en.wikipedia.org/wiki/MacOS)
+        - [iOS](https://en.wikipedia.org/wiki/IOS)
+        - [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+        - [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD)
+        - [NetBSD](https://en.wikipedia.org/wiki/NetBSD)
+        - [OpenBSD](https://en.wikipedia.org/wiki/OpenBSD)
+        - [DragonFly BSD](https://en.wikipedia.org/wiki/DragonFly_BSD)
     - [Linux](https://en.wikipedia.org/wiki/Linux)
         - [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu)
+        - [Kubuntu](https://en.wikipedia.org/wiki/Kubuntu)
         - [Debian](https://en.wikipedia.org/wiki/Debian)
         - [Fedora](https://en.wikipedia.org/wiki/Fedora_%28operating_system%29)
+        - [Linux Mint](https://en.wikipedia.org/wiki/Linux_Mint)
+        - [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux)
+        - [Manjaro](https://en.wikipedia.org/wiki/Manjaro)
+        - [Android](https://en.wikipedia.org/wiki/Android_(operating_system))
+        - [LinageOS](https://en.wikipedia.org/wiki/LineageOS)
+        - [Chrome OS](https://en.wikipedia.org/wiki/Chrome_OS)
+        - [CentOS](https://en.wikipedia.org/wiki/CentOS)
+        - [openSUSE](https://en.wikipedia.org/wiki/OpenSUSE)
+        - [Zorin OS](https://en.wikipedia.org/wiki/Zorin_OS)
+        - [MX Linux](https://en.wikipedia.org/wiki/MX_Linux)
+        - [Kali Linux](https://en.wikipedia.org/wiki/Kali_Linux)
+        - [Alpine Linux](https://en.wikipedia.org/wiki/Alpine_Linux)
+        - [BlackArch](https://en.wikipedia.org/wiki/BlackArch)
+        - [Parrot OS](https://en.wikipedia.org/wiki/Parrot_Security_OS)
+        - [Qubes OS](https://en.wikipedia.org/wiki/Qubes_OS)
+        - [elementary OS](https://en.wikipedia.org/wiki/Elementary_OS)
+        - [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
+        - [DD-WRT](https://en.wikipedia.org/wiki/DD-WRT)
+        - [Tizen](https://en.wikipedia.org/wiki/Tizen)
+        
 - Programski jeziki
     - [Python](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
     - [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
@@ -302,6 +331,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
     - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
     - [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
     - [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
+    - [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language))
     - [Javascipt](https://en.wikipedia.org/wiki/JavaScript)
     - [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
     - [shell skripte](https://en.wikipedia.org/wiki/Shell_script) (bash, zsh)
@@ -315,6 +345,9 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
     - [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
     - [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)
     - [MariaDB](https://en.wikipedia.org/wiki/MariaDB)
+    - [LevelDB](https://en.wikipedia.org/wiki/LevelDB)
+    - [RocksDB](https://en.wikipedia.org/wiki/RocksDB)
+    - [LMDB](https://en.wikipedia.org/wiki/Lightning_Memory-Mapped_Database)
 - Testiranje
     - [Unit testi](https://en.wikipedia.org/wiki/Unit_testing)
     - [Integracijski testi](https://en.wikipedia.org/wiki/Integration_testing)
@@ -335,6 +368,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
     - [Slack](https://slack.com/)
     - [Skype](https://www.skype.com/)
     - [Discord](https://discordapp.com)
+    - [Telegram](https://telegram.org/)
 - Orodja za planiranje
     - [Jira](https://www.atlassian.com/software/jira)
     - [Trelo](https://trello.com)
@@ -351,6 +385,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 
 #### Članki
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+- [What every programmer should know about memory (PDF)](https://www.akkadia.org/drepper/cpumemory.pdf)
 
 #### Zbirke literature 📖
 - [Zbirka raznih programerskih tem](https://github.com/sindresorhus/awesome)
@@ -458,6 +493,7 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 ### Terminali
 - [iTerm2](https://www.iterm2.com) - MacOS
 - [CMD](https://en.wikipedia.org/wiki/Cmd.exe) - Windows
+- [PowerShell](https://en.wikipedia.org/wiki/PowerShell) - Windows
 - [Ubuntu terminal](https://help.ubuntu.com/community/UsingTheTerminal?action=show&redirect=BasicCommands) - Ubuntu
 
 ### Browser plugini
