@@ -78,51 +78,51 @@ Najlažje spremljanje teh dogodkov/meetupov je s prijavo v [Meetup](https://www.
 Na teh dogodkih se ponavadi odvijajo razne predstavitve/talki, po katerih sledi druženje med obiskovalci.
 
 ### Seznam meetupov
-Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani - _DISCLAIMER: zna biti outdated podatek_).
-
+Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani - _DISCLAIMER: last updated 20.2.2021_).
+_Na desni strani sprememba od zadnjega updata (28.9.2019)_
 #### Splošni meetupi
-- [Čez glavo v #vblatu](https://www.meetup.com/vblatu/) | 2392
-- [ProductTank Slovenia](https://www.meetup.com/ProductTank-Slovenia/) | 573
-- [Digital Freelancers](https://www.meetup.com/Digital-Freelancing/) | 391
-- [GDG Ljubljana](https://www.meetup.com/GDG-Ljubljana/) | 217
-- [Remote Work Slovenija](https://www.meetup.com/Remote-Work-Slovenia/) | 125
+- [Čez glavo v #vblatu](https://www.meetup.com/vblatu/) | 2386 :chart_with_downwards_trend: 6
+- [ProductTank Slovenia](https://www.meetup.com/ProductTank-Slovenia/) | 647 :chart_with_upwards_trend: 74
+- [Digital Freelancers](https://www.meetup.com/Digital-Freelancing/) | 440 :chart_with_upwards_trend: 49
+- [GDG Ljubljana](https://www.meetup.com/GDG-Ljubljana/) | 221 :chart_with_upwards_trend: 4
+- [Remote Work Slovenija](https://www.meetup.com/Remote-Work-Slovenia/) | 134 :chart_with_upwards_trend: 9
 
 #### Specifični tehnični meetupi
-- [JavaScript Ljubljana](https://www.meetup.com/Ljubljana-JavaScript-User-Group/) | 1264
-- [Ljubljana Python User Group](https://www.meetup.com/Ljubljana-Python-Group/) | 1171
-- [Data Science Slovenia](https://www.meetup.com/Data-Science-Slovenia/) | 972
-- [Ethereum Slovenia](https://www.meetup.com/Ethereum-Slovenia/) | 901
-- [Deep Learning Ljubljana](https://www.meetup.com/deep-learning-ljubljana/) | 837
-- [PHP Developers Slovenia](https://www.meetup.com/php-si/) | 783
-- [Data, Cloud and AI in Slovenia](https://www.meetup.com/Big-Data-Developers-in-Slovenia/) | 751
-- [WordPress Ljubljana](https://www.meetup.com/WordPress-Ljubljana/) | 748
-- [D-Talk](https://www.meetup.com/D-Talk/) | 697
-- [Android Meetup Slovenija](https://www.meetup.com/Android-Development-Slovenija/) | 689
-- [DevOps Slovenia](https://www.meetup.com/DevOps-Slovenia/) | 621
-- [1337 Tech Ljubljana](https://www.meetup.com/1337-Tech-Ljubljana/) | 603
-- [UX SLOVENIA](https://www.meetup.com/UX-SLOVENIA/) | 558
-- [Ljubljana QA Meetup](https://www.meetup.com/Ljubljana-QA-meetup/) | 504
-- [PyData Ljubljana Meetup](https://www.meetup.com/PyData-Slovenia-Meetup/) | 485
-- [SloGameDev Meetup](https://www.meetup.com/SloGameDev/) | 476
-- [Scrum Slovenia Meetup](https://www.meetup.com/Slovenia-Scrum-Meetup/) | 473
-- [OpenBlend - Slovenian Java User Group](https://www.meetup.com/OpenBlend-Slovenian-Java-User-Group/) | 440
-- [Vue.js Slovenia](https://www.meetup.com/vue-slovenia/) | 429
-- [Blockchain Developers Meetup](https://www.meetup.com/Blockchain-Developers-Ljubljana/) | 372
-- [Angular Slovenia](https://www.meetup.com/ng-slo/) | 308
+- [JavaScript Ljubljana](https://www.meetup.com/Ljubljana-JavaScript-User-Group/) | 1296 :chart_with_upwards_trend: 32
+- [Ljubljana Python User Group](https://www.meetup.com/Ljubljana-Python-Group/) | 1270 :chart_with_upwards_trend: 99
+- [Data Science Slovenia](https://www.meetup.com/Data-Science-Slovenia/) | 1002 :chart_with_upwards_trend: 30
+- [Ethereum Slovenia](https://www.meetup.com/Ethereum-Slovenia/) | 903 :chart_with_upwards_trend: 2
+- [Deep Learning Ljubljana](https://www.meetup.com/deep-learning-ljubljana/) | 842 :chart_with_upwards_trend: 5
+- [PHP Developers Slovenia](https://www.meetup.com/php-si/) | 786 :chart_with_upwards_trend: 3
+- [Data, Cloud and AI in Slovenia](https://www.meetup.com/Big-Data-Developers-in-Slovenia/) | 771 :chart_with_upwards_trend: 20
+- [WordPress Ljubljana](https://www.meetup.com/WordPress-Ljubljana/) | 757 :chart_with_upwards_trend: 9
+- [Android Meetup Slovenija](https://www.meetup.com/Android-Development-Slovenija/) | 705 :chart_with_upwards_trend: 16
+- [D-Talk](https://www.meetup.com/D-Talk/) | 700 :chart_with_upwards_trend: 3
+- [DevOps Slovenia](https://www.meetup.com/DevOps-Slovenia/) | 633 :chart_with_upwards_trend: 12
+- [1337 Tech Ljubljana](https://www.meetup.com/1337-Tech-Ljubljana/) | 619 :chart_with_upwards_trend: 17
+- [UX SLOVENIA](https://www.meetup.com/UX-SLOVENIA/) | 583 :chart_with_upwards_trend: 25
+- [Ljubljana QA Meetup](https://www.meetup.com/Ljubljana-QA-meetup/) | 568 :chart_with_upwards_trend: 64
+- [Scrum Slovenia Meetup](https://www.meetup.com/Slovenia-Scrum-Meetup/) | 533 :chart_with_upwards_trend: 60
+- [SloGameDev Meetup](https://www.meetup.com/SloGameDev/) | 524 :chart_with_upwards_trend: 48
+- [PyData Ljubljana Meetup](https://www.meetup.com/PyData-Slovenia-Meetup/) | 494 :chart_with_upwards_trend: 9
+- [OpenBlend - Slovenian Java User Group](https://www.meetup.com/OpenBlend-Slovenian-Java-User-Group/) | 441 :chart_with_upwards_trend: 1
+- [Vue.js Slovenia](https://www.meetup.com/vue-slovenia/) | 433 :chart_with_upwards_trend: 4
+- [Backend developers of Ljubljana](https://www.meetup.com/Backend-developers-of-Ljubljana/) | 385 :chart_with_upwards_trend: 98
+- [Blockchain Developers Meetup](https://www.meetup.com/Blockchain-Developers-Ljubljana/) | 375 :chart_with_upwards_trend: 3
+- [Angular Slovenia](https://www.meetup.com/ng-slo/) | 313 :chart_with_upwards_trend: 5
 - [CocoaHeads Slovenija](https://www.meetup.com/CocoaHeads-Slovenija/) | 307
-- [SecTalks Ljubljana](https://www.meetup.com/SecTalks-Ljubljana/) | 297
-- [Backend developers of Ljubljana](https://www.meetup.com/Backend-developers-of-Ljubljana/) | 287
-- [Ljubljana Hardware Meetup](https://www.meetup.com/Ljubljana-Hardware-Meetup/) | 273
+- [SecTalks Ljubljana](https://www.meetup.com/SecTalks-Ljubljana/) | 302 :chart_with_upwards_trend: 5
+- [Ljubljana Hardware Meetup](https://www.meetup.com/Ljubljana-Hardware-Meetup/) | 277 :chart_with_upwards_trend: 4
 - [Slovenia Ruby User Group](https://www.meetup.com/RubySlovenia/) | 264
-- [Ljubljana Lambdas](https://www.meetup.com/Ljubljana-Lambdas/) | 247
-- [3fs Open House Events](https://www.meetup.com/3fs-openhouse/) | 197
-- [GeoDev Slovenia](https://www.meetup.com/GeoDev-Meetup-Slovenia/) | 172
+- [Ljubljana Lambdas](https://www.meetup.com/Ljubljana-Lambdas/) | 250 :chart_with_upwards_trend: 3
+- [3fs Open House Events](https://www.meetup.com/3fs-openhouse/) | 203 :chart_with_upwards_trend: 6
+- [GeoDev Slovenia](https://www.meetup.com/GeoDev-Meetup-Slovenia/) | 177 :chart_with_upwards_trend: 5
 
 #### Meetupi Maribor
-- [MariborJS - Javascript Meetups](https://www.meetup.com/MariborJS/) | 217
-- [ShareIT Maribor](https://www.meetup.com/ShareIT-Maribor/) | 131
-- [Spletne urice Maribor](https://wwwhmb.si/) | 100+
-- [Maribor Hardware Meetup](https://www.meetup.com/Maribor-Hardware-Meetup/) | 99
+- [Spletne urice Maribor](https://wwwhmb.si/) - [Facebook](https://www.facebook.com/spletneuricemaribor) | 600+
+- [MariborJS - Javascript Meetups](https://www.meetup.com/MariborJS/) | 220 :chart_with_upwards_trend: 3
+- [ShareIT Maribor](https://www.meetup.com/ShareIT-Maribor/) | 134 :chart_with_upwards_trend: 3
+- [Maribor Hardware Meetup](https://www.meetup.com/Maribor-Hardware-Meetup/) | 101 :chart_with_upwards_trend: 2
 
 ## Podcasti 🎙 🎧
 Podcasti so intervjuji/pogovori v audio obliki. 
