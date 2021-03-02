@@ -196,11 +196,11 @@ Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne 
 - [The Bike Shed](https://bikeshed.fm/)
 - [Giant Robots Smashing Into Other Giant Robots](https://giantrobots.fm/)
 
-## Video kanali :movie_camera: :clapper:
+## Video kanali 🎥 🎬
 - [Spletne urice Maribor](https://www.youtube.com/channel/UC0TYjK9bZZE6K8CnLgbwaCw/videos)
 - [DragonPy - python meetup](https://www.youtube.com/channel/UCN8JxzMuRkYtdEXYD_8vsQA)
 
-## Slovenski blogi :pencil2: :book:
+## Slovenski blogi ✏️ 📖
 Seznam izhaja predvsem iz [Facebook posta](https://www.facebook.com/groups/developerji/permalink/2964548213648271/) s strani Blendorja Sefaja
 - [Swizec](https://swizec.com/blog) - Swizec Teller  
 - [Epic](https://epic.com/blog)  - Oto Brglez
