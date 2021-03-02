@@ -1,5 +1,5 @@
 # Programerski vodič Slovenija :slovenia:
-Vključuje osnovne stvari, ki pridejo prav na samem začetku kariere vsakega programerja :man_technologist: oziroma programerke :woman_technologist:, 
+Vključuje osnovne stvari, ki pridejo prav na začetku kariere vsakega programerja :man_technologist: oziroma programerke :woman_technologist:, 
 hkrati pa tudi netehničnemu osebju; recruiterjom :mailbox_with_mail:, marketingu :loudspeaker:, artistom :artist: ter entuziastom tehnicnih stvari :eyes:.  
 ___
 Read this in other languages: [English](README.en.md) :gb:
