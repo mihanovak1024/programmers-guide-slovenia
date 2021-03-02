@@ -49,9 +49,12 @@ Kazalo
     - [Slovenski Developerji pogovori](#pogovori-v-skupini-slovenski-developerji-na-to-temo)
 - [Iskanje rešitev](#iskanje-rešitev--)
 - [Orodja](#orodja-)
+    - [Tehnična](#tehnična)
+    - [Splošna](#splošna)
+        - [Programska oprema](#programska-oprema)
+        - [Delovno mesto in zdravje](#delovno-mesto-in-zdravje)
+        - [Periferija](#periferija)
 - [Zanimivosti](#zanimivosti--)
-    - [Delovno mesto in zdravje](#delovno-mesto-in-zdravje)
-    - [Periferija](#periferija)
     - [Hudi projekti](#hudi-projekti)
     - [Zanimive debate](#zanimive-debate)
 - [Sodelujoči](#sodelujoči-)
@@ -557,11 +560,13 @@ Poleg raznih forumov/blogov pa so za vprašanje o težavah možne naslednje stra
 - [HackerNews ask](https://news.ycombinator.com/ask)
 
 ## Orodja 🛠
+
+### Tehnična
 Za čimbolj efektivno delo programerja so prav zagotovo odgovorna tudi njegova orodja.
 
 Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) oziroma [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), terminal in Google.
 
-### IDE
+#### IDE
 - [IntelliJ](https://www.jetbrains.com/idea/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [VisualStudio](https://visualstudio.microsoft.com)
@@ -570,7 +575,7 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 - [Eclipse](https://www.eclipse.org)
 - [NetBeans](https://netbeans.org)
 
-### Urejevalniki besedil (Text Editors)
+#### Urejevalniki besedil (Text Editors)
 - [SublimeText](https://www.sublimetext.com)
 - [Atom](https://atom.io)
 - [Vim](https://www.vim.org)
@@ -578,34 +583,33 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 - [Notepad++](https://notepad-plus-plus.org)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-### Terminali
+#### Terminali
 - [iTerm2](https://www.iterm2.com) - MacOS
 - [CMD](https://en.wikipedia.org/wiki/Cmd.exe) - Windows
 - [PowerShell](https://en.wikipedia.org/wiki/PowerShell) - Windows
 - [Ubuntu terminal](https://help.ubuntu.com/community/UsingTheTerminal?action=show&redirect=BasicCommands) - Ubuntu
 
-### Browser plugini
+#### Browser plugini
 - [Vimium](https://vimium.github.io)
 
-### Zbirke orodij
-#### Splošne
+#### Zbirke orodij
+##### Splošne
 - [Undesign](https://undesign.learn.uno/) - brezplačna orodja za programerje in ustvarjalce
-- [Nacrtovanje - vizualno](https://www.facebook.com/groups/developerji/permalink/2367750203328078/) - Andraž Brodul Brodnik
 
-#### Za študente
+##### Za študente
 - [GitHub Education Pack](https://education.github.com/pack) - orodja in crediti
 - [IntelliJ for Students](https://www.jetbrains.com/student/) - brezplačne IntelliJ professional licence
 
-### Remote orodja
-- [Zoom alternative](https://www.facebook.com/groups/developerji/permalink/2281401275296305/) - Matej Leban) 
+### Splošna
 
-## Zanimivosti 😮 🙌
-Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
+#### Programska oprema
+- [Zoom alternative](https://www.facebook.com/groups/developerji/permalink/2281401275296305/) - Matej Leban)
+- [Nacrtovanje - vizualno](https://www.facebook.com/groups/developerji/permalink/2367750203328078/) - Andraž Brodul Brodnik
 
-### Delovno mesto in zdravje
+#### Delovno mesto in zdravje
 - [Glasba za produktivnost](https://www.facebook.com/groups/developerji/permalink/3024612174308541/) - Tomaž Štih
 
-### Periferija
+#### Periferija
 - [Argonomska periferija](https://www.facebook.com/groups/developerji/permalink/3036984573071301/) - Matjaž Marussig
 - [Vpliv periferije na posameznika](https://www.facebook.com/groups/developerji/permalink/3026709510765474/?comment_id=3027113867391705) - Anže Šuštar
 - [Tipkovnice](https://www.facebook.com/groups/developerji/permalink/1877004242402679/) - Matevž Pesek
@@ -614,6 +618,9 @@ Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
 - [Stoli](https://www.facebook.com/groups/developerji/permalink/2870760826360344/) - Miha Zupančič
 - [Standing deski](https://www.facebook.com/groups/developerji/permalink/2841766842593076/) - Marko Vrbnjak
 - [Standing deski nr2](https://www.facebook.com/groups/developerji/permalink/2111266718976429/) - Tit Petrič
+
+## Zanimivosti 😮 🙌
+Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
 
 ### Hudi projekti
 Iniciativa s strani Ota Brgleza; [Kaj počnete?](https://www.facebook.com/hashtag/kajpo%C4%8Dnete/?__gid__=272812582821861) objave kjer ljudje predstavijo svoje projekte.
