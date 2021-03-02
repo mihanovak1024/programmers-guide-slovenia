@@ -23,6 +23,8 @@ Kazalo
 - [Podcasti](#podcasti--)
     - [Slovenski podcasti](#slovenski-podcasti)
     - [Tuji podcasti](#tuji-podcasti)
+- [Video kanali](#video-kanali--)
+- [Slovenski blogi](#slovenski-blogi--)
 - [Novice](#novice--)
 - [Službe](#službe---)
     - [Plače](#plače)
@@ -30,6 +32,13 @@ Kazalo
     - [Tuje objave za delo](#tuje-objave-za-delo-)
         - [Remote dela](#remote-dela)
         - [On-site dela](#on-site-dela)
+        - [HackerNews](#hackernews-objave-vsak-mesec)
+    - [Co-working pisarne v Sloveniji](#co-working-pisarne-v-sloveniji)
+    - [Slovenski Developerji pogovori](#pogovori-v-skupini-slovenski-developerji-na-to-temo)
+        - [Splošno](#splošno)
+        - [Za zaposlovalce](#za-zaposlovalce)
+        - [Remote](#remote)
+    - [Startup stvari](#startup-stvari)
 - [Izobrazba](#izobrazba---)
     - [Osnovni koncepti](#osnovni-koncepti)
     - [Fakultete](#fakultete)
@@ -37,10 +46,13 @@ Kazalo
     - [Poletne šole](#poletne-šole)
     - [Hackathoni](#hackathoni)
     - [Knjige](#knjige-)
+    - [Slovenski Developerji pogovori](#pogovori-v-skupini-slovenski-developerji-na-to-temo)
 - [Iskanje rešitev](#iskanje-rešitev--)
 - [Orodja](#orodja-)
 - [Zanimivosti](#zanimivosti--)
-    - [Hobi projekti](#hobi-projekti)
+    - [Delovno mesto in zdravje](#delovno-mesto-in-zdravje)
+    - [Periferija](#periferija)
+    - [Hudi projekti](#hudi-projekti)
     - [Zanimive debate](#zanimive-debate)
 - [Sodelujoči](#sodelujoči-)
 
@@ -332,7 +344,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Zaposleni v remote-first podjetjih (COVID-19 help)](https://www.facebook.com/groups/developerji/permalink/2244351339001299/) - Simon Belak
 - [Svoja VAT številka?](https://www.facebook.com/groups/developerji/permalink/2276469445789488/?comment_id=2276916115744821) - Dejan Krejić
 
-### Startup stuff
+### Startup stvari
 - [Logo in barvna shema](https://www.facebook.com/groups/developerji/permalink/3059548247481600/) - Dejan Dular
 - [Iščem partnerja](https://www.facebook.com/groups/developerji/permalink/3019161041520321/) - Ig Or
 - [Iščem co-founderja](https://www.facebook.com/groups/developerji/permalink/1709670232469415/) - Jaka Šmid
@@ -606,7 +618,7 @@ Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
 ### Hudi projekti
 Iniciativa s strani Ota Brgleza; [Kaj počnete?](https://www.facebook.com/hashtag/kajpo%C4%8Dnete/?__gid__=272812582821861) objave kjer ljudje predstavijo svoje projekte.
 
-Ostali projekti: 
+#### Ostali projekti: 
 - [Flyavel](https://flyavel.com) - Luka Varga (update razvoja 
 [prvi](https://www.facebook.com/groups/developerji/permalink/1095225057247272/) in 
 [drugi](https://www.facebook.com/groups/developerji/permalink/1459865527449888/) del)
