@@ -5,7 +5,7 @@ ___
 Read this in other languages: [Slovenian](README.md) :slovenia:
 ___
 
-## Uvod
+## Introduction
 > If you could go back in time, what advice would you give yourself, a junior developer?
 
 [Questions for mid/senior developers](https://www.facebook.com/groups/developerji/permalink/682012798568502/) - Jana Bergant
@@ -13,7 +13,7 @@ ___
 ---
  
 
-Kazalo
+Table of contents
 ---
 - [Groups](#groups-)
     - [Facebook](#facebook)
@@ -47,6 +47,9 @@ Kazalo
     - [Hackathons](#hackathons)
     - [Books](#books-)
     - [Slovenski Developerji discussions](#slovenski-developerji-facebook-discussions)
+        - [General](#general)
+        - [Remote](#remote)
+        - [Startup stuff](#startup-stuff)
 - [Solution searching](#solution-searching--)
 - [Tools](#tools-)
     - [Technical](#technical)
@@ -347,7 +350,7 @@ The later is called [_freelancing_](https://en.wikipedia.org/wiki/Freelancer) or
 - [Working as a remote-first company (COVID-19 help)](https://www.facebook.com/groups/developerji/permalink/2244351339001299/) - Simon Belak
 - [Your own VAT number?](https://www.facebook.com/groups/developerji/permalink/2276469445789488/?comment_id=2276916115744821) - Dejan Krejić
 
-### Startup stuff
+#### Startup stuff
 - [Logo and color scheme](https://www.facebook.com/groups/developerji/permalink/3059548247481600/) - Dejan Dular
 - [Looking for a partner](https://www.facebook.com/groups/developerji/permalink/3019161041520321/) - Ig Or
 - [Looking for a co-founder](https://www.facebook.com/groups/developerji/permalink/1709670232469415/) - Jaka Šmid
