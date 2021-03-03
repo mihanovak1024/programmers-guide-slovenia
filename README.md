@@ -513,7 +513,7 @@ letno pa se ponavlja predvsem DragonHack.
 - [DragonHack](https://dragonhack.si) - FRI, Ljubljana
 - [MajorLeagueHacking](https://mlh.io/) - Europe Hackathon events ([2019](https://mlh.io/seasons/eu-2019/events), [2020](https://mlh.io/seasons/eu-2020/events))
 
-#### Pogovori v skupini Slovenski Developerji na to temo
+Pogovori v skupini Slovenski Developerji na to temo
 - [Hackathon na meji izkoriščanja?](https://www.facebook.com/groups/developerji/permalink/3057493967687028/) - Gasper Zejn
 
 ### Knjige 📚

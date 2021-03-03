@@ -514,7 +514,7 @@ but DragonHack is the only one happening every year.
 - [DragonHack](https://dragonhack.si) - FRI, Ljubljana
 - [MajorLeagueHacking](https://mlh.io/) - Europe Hackathon events ([2019](https://mlh.io/seasons/eu-2019/events), [2020](https://mlh.io/seasons/eu-2020/events))
 
-#### Slovenski Developerji Facebook discussions
+Slovenski Developerji Facebook discussions
 - [Hackathon - borderline of exploitation?](https://www.facebook.com/groups/developerji/permalink/3057493967687028/) - Gasper Zejn
 
 ### Books 📚
