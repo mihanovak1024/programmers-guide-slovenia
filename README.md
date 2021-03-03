@@ -206,7 +206,7 @@ Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne 
 ## Slovenski blogi 📖 💡
 Seznam izhaja predvsem iz [Facebook posta](https://www.facebook.com/groups/developerji/permalink/2964548213648271/) s strani Blendorja Sefaja
 - [Swizec](https://swizec.com/blog) - Swizec Teller  
-- [Epic](https://epic.com/blog)  - Oto Brglez
+- [The Epic.Blog](https://epic.blog)  - Oto Brglez
 - [samoburja.com](https://samoburja.com) - Samo Burja
 - [YonderNews](https://yondernews.com) - Andrej Mrevlje
 - [mihanovak1024](https://mihanovak1024.com/posts) - Miha Novak :raising_hand_man:
