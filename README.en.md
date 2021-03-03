@@ -34,7 +34,7 @@ Table of contents
         - [On-site work](#on-site-work)
         - [HackerNews](#hackernews-monthly-ads)
     - [Slovenian co-working offices](#slovenian-co-working-offices)
-    - [Slovenski Developerji discussions](#slovenski-developerji-facebook-discussions)
+    - [Slovenski Developerji discussions](#slovenski-developerji-discussions)
         - [General](#general)
         - [For employers](#for-employers)
         - [Remote](#remote)
@@ -300,7 +300,7 @@ The later is called [_freelancing_](https://en.wikipedia.org/wiki/Freelancer) or
 - [Awesome workplaces in Slovenia](https://github.com/otobrglez/awesome-workplaces-slovenia) - Oto Brglez
 - [Anyone knows any open office in Ljubljana?](https://www.facebook.com/groups/developerji/permalink/977736778996101/) - Rok Samsa
 
-### Slovenski Developerji Facebook discussions
+### Slovenski Developerji discussions
 #### General
 - [Comparison San Francisco <-> Europe](https://www.facebook.com/groups/developerji/permalink/1889843437785426/), [Part2](https://swizec.com/blog/san-francisco-v-europe-part-2/swizec/9198) - Swizec Teller
 - [Salary discussion for junior/senior positions](https://www.facebook.com/groups/developerji/permalink/1157862170983560/) - Miha Medven

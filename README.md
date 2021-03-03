@@ -34,7 +34,7 @@ Kazalo
         - [On-site dela](#on-site-dela)
         - [HackerNews](#hackernews-objave-vsak-mesec)
     - [Co-working pisarne v Sloveniji](#co-working-pisarne-v-sloveniji)
-    - [Slovenski Developerji pogovori](#pogovori-v-skupini-slovenski-developerji-na-to-temo)
+    - [Slovenski Developerji pogovori](#pogovori-v-skupini-slovenski-developerji)
         - [Splošno](#splošno)
         - [Za zaposlovalce](#za-zaposlovalce)
         - [Remote](#remote)
@@ -300,7 +300,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Awesome workplaces in Slovenia](https://github.com/otobrglez/awesome-workplaces-slovenia) - Oto Brglez
 - [Pozna kdo kak open office v Ljubljani?](https://www.facebook.com/groups/developerji/permalink/977736778996101/) - Rok Samsa
 
-### Pogovori v skupini Slovenski Developerji na to temo
+### Pogovori v skupini Slovenski Developerji
 #### Splošno
 - [Primerjava San Francisco <-> Evropa](https://www.facebook.com/groups/developerji/permalink/1889843437785426/), [Part2](https://swizec.com/blog/san-francisco-v-europe-part-2/swizec/9198) - Swizec Teller
 - [Debata o plačah in junior/senior delovnih mestih](https://www.facebook.com/groups/developerji/permalink/1157862170983560/) - Miha Medven
