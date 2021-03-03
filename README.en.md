@@ -269,7 +269,7 @@ You can for a company by being on-site or remote.
 
 _On-site_ means that you work for the employer in his offices and you're physically present.
 
-that you work for the emplyer from the comfort of your home or from a co-working space, meaning you don't actually be physically present there. [Remote Work Literature](https://news.ycombinator.com/item?id=20884974)
+_Remote_ means that you work for the employer from the comfort of your home or from a co-working space, meaning you don't actually be physically present there. [Remote Work Literature](https://news.ycombinator.com/item?id=20884974)
 
 There's also two ways of working for the employer; either you work nine to five (8 hours, fulltime) or from project to project for one or several employers.
 The later is called [_freelancing_](https://en.wikipedia.org/wiki/Freelancer) or contracting. 
