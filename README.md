@@ -308,13 +308,13 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Študentsko delo - ja/ne?](https://www.facebook.com/groups/developerji/permalink/1157902144312896/) - Goran Blažič
 - [Freelance četrtek - Urne postavke](https://www.facebook.com/groups/developerji/permalink/1060272990742479/) - Miha Medven
 - [Rang plač - se da priti v zgornjo mejo?](https://www.facebook.com/groups/developerji/permalink/1914437425326027/) - Klemen Klemen
+- [Rang plač - se da priti v zgornjo mejo? nr2](https://www.facebook.com/groups/developerji/permalink/3045147585588333/) - Greg Sušec
 - [4 years in San Francisco - lessons learned](https://swizec.com/blog/4-years-of-coding-in-san-francisco-lessons-learned/swizec/9026) - Swizec Teller
 - [Getting the most of your country - salary-wise](https://www.facebook.com/groups/developerji/permalink/1698882163548222/) - Swizec Teller
 - [How I sidehustled and why it almost killed my business](https://www.facebook.com/groups/developerji/permalink/1521000998003007/) - Swizec Teller
 - [What I learned while 6x-ing my income in the last 4 years](https://www.facebook.com/groups/developerji/permalink/863286370441143/) - Swizec Teller
 - [Kot SENIOR developer - 3+ let izkušenj](https://www.facebook.com/groups/developerji/permalink/1755631567873281/) - Žiga Hajduković
 - [Primer zaposlovanja v Twitterju](https://www.facebook.com/groups/developerji/permalink/3065419470227811/) - Matej Rizman
-- [Je zgornja meja plače pri oglasih za delovno mesto dosegljiva?](https://www.facebook.com/groups/developerji/permalink/3045147585588333/) - Greg Sušec
 - [Sindikat podjetja Alphabet (Google)](https://www.facebook.com/groups/developerji/permalink/3051282841641474/) - Podcast Radia Študent
 - [Dodatek na uspešnost v oglasih za delo - potencialna past?](https://www.facebook.com/groups/developerji/permalink/3042182945884797/) - Rok Pok
 - [Fer plača za junior developerja](https://www.facebook.com/groups/developerji/permalink/2797361633700264/) - Asmir Muminovic
@@ -334,7 +334,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Zbirka uporabnih strani in nasvetov](https://www.facebook.com/groups/developerji/permalink/2286647561438343/) - Sara Vošinek Gašpar
 - [Iskanje Remote Dela](https://www.facebook.com/groups/developerji/permalink/1768477156588722/) - Andreas Komočar
     beri komentar Roka Carla (tisti, ki ima najvec lajkov :wink: )
-- [Iskanje Remote Dela](https://www.facebook.com/groups/developerji/permalink/1154485111321266/) - Aljaz Nekaj
+- [Iskanje Remote Dela nr2](https://www.facebook.com/groups/developerji/permalink/1154485111321266/) - Aljaz Nekaj
 - [Recruiterji za remote delo](https://www.facebook.com/groups/developerji/permalink/1967875469982222/) - Jure Čuhalev
 - [Remote delo s pravnega vidika v Sloveniji](https://www.facebook.com/groups/developerji/permalink/1151770271592750/) - Robert Koritnik
 - [Uvajamo remote developerja, slabo komunicira](https://www.facebook.com/groups/developerji/permalink/2977907768978982/) - Matjaž Drolc
@@ -354,6 +354,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Startup Večerja](https://www.facebook.com/groups/developerji/permalink/1711312938971811/) & [Post2](https://www.facebook.com/groups/developerji/permalink/2142944635808637/) - Andrej Fodor
 - [MicroConf - Bootsrapped SaaS founders](https://www.facebook.com/groups/developerji/permalink/2270741749695591/) - Jure Čuhalev
 - [Postavitev manjše spletne trgovine](https://www.facebook.com/groups/developerji/permalink/2271206812982418/) - Miha Markič
+- [WooCommerce - kako začeti](https://www.facebook.com/groups/developerji/permalink/3062065293896562/) - Matej Braz
 - [Primerjava plačilnih modulov](https://www.facebook.com/groups/developerji/permalink/2228300887273011/) - Anže Harej (Optiweb)
 
 ## Izobrazba 🏛 📚 📈
@@ -512,7 +513,7 @@ letno pa se ponavlja predvsem DragonHack.
 - [DragonHack](https://dragonhack.si) - FRI, Ljubljana
 - [MajorLeagueHacking](https://mlh.io/) - Europe Hackathon events ([2019](https://mlh.io/seasons/eu-2019/events), [2020](https://mlh.io/seasons/eu-2020/events))
 
-Pogovori v skupini Slovenski Developerji na temo Hackathonov
+#### Pogovori v skupini Slovenski Developerji na to temo
 - [Hackathon na meji izkoriščanja?](https://www.facebook.com/groups/developerji/permalink/3057493967687028/) - Gasper Zejn
 
 ### Knjige 📚
@@ -535,7 +536,7 @@ Kupovanje knjig
 - [Pridobivanje certifikatov - koristno?](https://www.facebook.com/groups/developerji/permalink/417829644986820/) - Ozren Blanuša
 - [Dejansko kdo uporablja rocket-science enačbe s faksa?](https://www.facebook.com/groups/developerji/permalink/1902008999902203/) - Grega Raško
 - [Mistični Full Stack developerji](https://www.facebook.com/groups/developerji/permalink/1857080687728368/) - Tomaž Štih
-- [Frontent vs backend](https://www.facebook.com/groups/developerji/permalink/1846714855431618/) - Klemen Klemen
+- [Frontend vs backend](https://www.facebook.com/groups/developerji/permalink/1846714855431618/) - Klemen Klemen
 - [Online courses vs college in Software Engineering](https://news.ycombinator.com/item?id=21104926) - HackerNews
 - [Zaključujem 3. letnik, kako dalje?](https://www.facebook.com/groups/developerji/permalink/3062066397229785/) - Jana Janković
 - [Podjetja iščejo programerje z diplomo ali znanjem?](https://www.facebook.com/groups/developerji/permalink/3057379191031839/) - Simon Meško
@@ -640,7 +641,6 @@ Iniciativa s strani Ota Brgleza; [Kaj počnete?](https://www.facebook.com/hashta
 ### Zanimive debate
 - [Kaj lepega ste se naučili/zgradili med počitnicami?](https://www.facebook.com/groups/developerji/permalink/1379932758776499/) - Oto Brglez
 - [Statistika računalnikov](https://www.facebook.com/groups/developerji/permalink/3044914432278315/) - Matej Zidarn
-- [WooCommerce - s čim začeti](https://www.facebook.com/groups/developerji/permalink/3062065293896562/) - Matej Braz
 - [Kaj vas je presenetilo v zadnjem času?](https://www.facebook.com/groups/developerji/permalink/2430344007068697/) - Jure Čuhalev
 - [Zbiranje EMŠO - sporno?](https://www.facebook.com/groups/developerji/permalink/2268404719929294/) - Gregor Pollak
 

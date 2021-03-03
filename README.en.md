@@ -34,7 +34,7 @@ Kazalo
         - [On-site work](#on-site-work)
         - [HackerNews](#hackernews-monthly-ads)
     - [Slovenian co-working offices](#slovenian-co-working-offices)
-    - [Slovenski Developerji discussions](#slovenian-developer-facebook-discussions)
+    - [Slovenski Developerji discussions](#sloveniski-developerji-facebook-discussions)
         - [General](#general)
         - [For employers](#for-employers)
         - [Remote](#remote)
@@ -46,7 +46,7 @@ Kazalo
     - [Summer schools](#summers-schools)
     - [Hackathons](#hackathons)
     - [Books](#books-)
-    - [Slovenski Developerji discussions](#slovenian-developer-facebook-discussions)
+    - [Slovenski Developerji discussions](#sloveninski-developerji-facebook-discussions)
 - [Solution searching](#solution-searching--)
 - [Tools](#tools-)
     - [Technical](#technical)
@@ -76,7 +76,7 @@ The largest one in Slovenia is definitely the Facebook group [Slovenski develope
 - [Spletni programerji](https://www.facebook.com/groups/158003467603274) - Web programmers
 #### Marketing
 - [Growth Hacking Slovenia](https://www.facebook.com/groups/1870456883232512)
-- [Delaj Vitko](https://www.facebook.com/groups/delajvitko) - 
+- [Delaj Vitko](https://www.facebook.com/groups/delajvitko)
 
 #### Slack
 - [Slovenian Tech Community](https://sloveniantech.herokuapp.com/)
@@ -219,9 +219,9 @@ Some of the newest news/issues/solutions are daily posted on the following sites
 - [SloTech](https://slo-tech.com)
 - [HackerNews](https://news.ycombinator.com)
 - [Reddit r/programming](https://www.reddit.com/r/programming/)
-- [Twitter](https://twitter.com) - sledenje tehničnim ljudem
-- [Medium](https://medium.com/) članki
-- [Reddit razlicni programerski subredditi](https://www.reddit.com/user/poopMachinist/m/programming/)
+- [Twitter](https://twitter.com) - following technical profiles
+- [Medium](https://medium.com/) articles
+- [Reddit - different subreddits](https://www.reddit.com/user/poopMachinist/m/programming/)
 - [InfoQ](https://www.infoq.com)
 - [The Register](https://www.theregister.co.uk)
 
@@ -251,7 +251,7 @@ Each developer needs to take care of his brand and general contact information, 
 More about [LinkedInu](https://www.linkedin.com/) can be found on [Wikipedia](https://en.wikipedia.org/wiki/LinkedIn).
 
 In short; [LinkedIn](https://www.linkedin.com/) is a professional social network for connecting people on work-related topics.
-Quite a lot of job ads can be seen on LinkedIn, but usually so-called [rekruterji](http://www.businessdictionary.com/definition/recruiter.html) ping you directly
+Quite a lot of job ads can be seen on LinkedIn, but usually so-called [recruiters](http://www.businessdictionary.com/definition/recruiter.html) ping you directly
 about an open job positions at a company the recruiter is working for, based on your expertise.
 
 ### Slovenian job ads  🇸🇮
@@ -260,115 +260,114 @@ about an open job positions at a company the recruiter is working for, based on 
 - Slack: [Slovenian Tech Community](https://sloveniantech.herokuapp.com/); channel #jobs in #remote-jobs
 - [SloTech job ads](https://slo-tech.com/delo)
 - [MojeDelo - programiranje](https://www.mojedelo.com/prosta-delovna-mesta/racunalnistvo-programiranje)
-- [PovioLabs](https://www.poviolabs.com) - možnost projektnega dela (freelancing) ali redna zaposlitev
+- [PovioLabs](https://www.poviolabs.com) - freelancing or fulltime
 - [TopŠiht](https://topsiht.si)
 - [StartupJob](https://www.startupjob.si) + [TedenskiNovičnik](https://www.internetweek.si/sl/) - Nataša Pirnat
 
 ### Foreign job ads 🌎
+You can for a company by being on-site or remote. 
 
-Možnosti dela za neko podjetje za polni delovni čas so lahko on-site in remote.
+_On-site_ means that you work for the employer in his offices and you're physically present.
 
+that you work for the emplyer from the comfort of your home or from a co-working space, meaning you don't actually be physically present there. [Remote Work Literature](https://news.ycombinator.com/item?id=20884974)
 
-_On-site_ pomeni, da za delodajalca delaš v njihovih pisarnah oziroma si fizično prisoten.
+There's also two ways of working for the employer; either you work nine to five (8 hours, fulltime) or from project to project for one or several employers.
+The later is called [_freelancing_](https://en.wikipedia.org/wiki/Freelancer) or contracting. 
 
-
-_Remote_ pomeni, da delaš za delodajalca od doma oziroma co-working pisarne (torej nerabiš biti fizično prisoten pri njih). [Remote Work Literature](https://news.ycombinator.com/item?id=20884974)
-
-Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reče [_freelancing_](https://en.wikipedia.org/wiki/Freelancer), ker ponavadi pomeni delo preko s.p. pogodbe. 
-
-#### Remote dela
+#### Remote
 - [Freelancer](http://freelancer.com/) - freelancing
 - [UpWork](http://upwork.com/) - freelancing
 - [RemoteOK](https://remoteok.io)
 - [WeWorkRemotely](https://weworkremotely.com)
 - [Nomadlist](https://nomadlist.com)
 - [CW Jobs](https://www.cwjobs.co.uk/)
-- [Zbirka remote služb - Remotive.io](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
-- [Zbirka freelance platform in podjetij, ki omogocajo remote delo](https://docs.google.com/spreadsheets/u/1/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview)
-- [Remotesome](https://www.facebook.com/groups/developerji/permalink/2465560670213697/) - Uroš Marolt in Andrej Fodor
+- [Collection of remote jobs - Remotive.io](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
+- [Collection of remote companies and platforms](https://docs.google.com/spreadsheets/u/1/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview)
+- [Remotesome](https://www.facebook.com/groups/developerji/permalink/2465560670213697/) - Uroš Marolt and Andrej Fodor
 
-#### On-site dela
-- [HackerNews jobs](https://news.ycombinator.com/jobs) - SilliconValley startupi
+#### On-site
+- [HackerNews jobs](https://news.ycombinator.com/jobs) - SilliconValley startups
 - [StackOverflow jobs](https://stackoverflow.com/jobs)
-- [AngelList](https://angel.co/) - startupi
+- [AngelList](https://angel.co/) - startups
 - [Indeed](https://www.indeed.com)
 
-#### HackerNews objave vsak mesec
+#### HackerNews monthly ads
 - [Who is hiring?](https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=%22Ask%20HN%3A%20Who%20is%20hiring%3F%22%20whoishiring&sort=byPopularity&type=story)
 - [Who wants to be hired?](https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=%22Ask%20HN%3A%20Who%20wants%20to%20be%20hired%3F%22%20whoishiring&sort=byPopularity&type=story)
 - [Freelancer? Seeking Freelancer?](https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=%22Ask%20HN%3A%20Freelancer%3F%20Seeking%20freelancer%22%20whoishiring&sort=byPopularity&type=story)
 
-### Co-working pisarne v Sloveniji
+### Slovenian co-working offices
 - [Awesome workplaces in Slovenia](https://github.com/otobrglez/awesome-workplaces-slovenia) - Oto Brglez
-- [Pozna kdo kak open office v Ljubljani?](https://www.facebook.com/groups/developerji/permalink/977736778996101/) - Rok Samsa
+- [Anyone knows any open office in Ljubljana?](https://www.facebook.com/groups/developerji/permalink/977736778996101/) - Rok Samsa
 
-### Pogovori v skupini Slovenski Developerji na to temo
-#### Splošno
-- [Primerjava San Francisco <-> Evropa](https://www.facebook.com/groups/developerji/permalink/1889843437785426/), [Part2](https://swizec.com/blog/san-francisco-v-europe-part-2/swizec/9198) - Swizec Teller
-- [Debata o plačah in junior/senior delovnih mestih](https://www.facebook.com/groups/developerji/permalink/1157862170983560/) - Miha Medven
-- [Delo v tujini - EU](https://www.facebook.com/groups/272812582821861/permalink/836178613151919/) - Žan Marolt
-- [Študentsko delo - ja/ne?](https://www.facebook.com/groups/developerji/permalink/1157902144312896/) - Goran Blažič
-- [Freelance četrtek - Urne postavke](https://www.facebook.com/groups/developerji/permalink/1060272990742479/) - Miha Medven
-- [Rang plač - se da priti v zgornjo mejo?](https://www.facebook.com/groups/developerji/permalink/1914437425326027/) - Klemen Klemen
+### Slovenski Developerji Facebook discussions
+#### General
+- [Comparison San Francisco <-> Europe](https://www.facebook.com/groups/developerji/permalink/1889843437785426/), [Part2](https://swizec.com/blog/san-francisco-v-europe-part-2/swizec/9198) - Swizec Teller
+- [Salary discussion for junior/senior positions](https://www.facebook.com/groups/developerji/permalink/1157862170983560/) - Miha Medven
+- [Working abroad - Europe](https://www.facebook.com/groups/272812582821861/permalink/836178613151919/) - Žan Marolt
+- [Student job - yes/no?](https://www.facebook.com/groups/developerji/permalink/1157902144312896/) - Goran Blažič
+- [Freelance Thursday - Hourly rates](https://www.facebook.com/groups/developerji/permalink/1060272990742479/) - Miha Medven
+- [Salary ranges - can you get the upper limit?](https://www.facebook.com/groups/developerji/permalink/1914437425326027/) - Klemen Klemen
+- [Salary ranges - can you get the upper limit? nr2](https://www.facebook.com/groups/developerji/permalink/3045147585588333/) - Greg Sušec
 - [4 years in San Francisco - lessons learned](https://swizec.com/blog/4-years-of-coding-in-san-francisco-lessons-learned/swizec/9026) - Swizec Teller
 - [Getting the most of your country - salary-wise](https://www.facebook.com/groups/developerji/permalink/1698882163548222/) - Swizec Teller
 - [How I sidehustled and why it almost killed my business](https://www.facebook.com/groups/developerji/permalink/1521000998003007/) - Swizec Teller
 - [What I learned while 6x-ing my income in the last 4 years](https://www.facebook.com/groups/developerji/permalink/863286370441143/) - Swizec Teller
-- [Kot SENIOR developer - 3+ let izkušenj](https://www.facebook.com/groups/developerji/permalink/1755631567873281/) - Žiga Hajduković
-- [Primer zaposlovanja v Twitterju](https://www.facebook.com/groups/developerji/permalink/3065419470227811/) - Matej Rizman
-- [Je zgornja meja plače pri oglasih za delovno mesto dosegljiva?](https://www.facebook.com/groups/developerji/permalink/3045147585588333/) - Greg Sušec
-- [Sindikat podjetja Alphabet (Google)](https://www.facebook.com/groups/developerji/permalink/3051282841641474/) - Podcast Radia Študent
-- [Dodatek na uspešnost v oglasih za delo - potencialna past?](https://www.facebook.com/groups/developerji/permalink/3042182945884797/) - Rok Pok
-- [Fer plača za junior developerja](https://www.facebook.com/groups/developerji/permalink/2797361633700264/) - Asmir Muminovic
-- [Dobre računovodske pisarne](https://www.facebook.com/groups/developerji/permalink/2526311154138648/) - Uroš Orešič
-- [Iskanje zaposlitve - več oglasov hkrati](https://www.facebook.com/groups/developerji/permalink/2353430251426740/) - Jure Matoh
-- [Slovenska AI podjetja](https://www.facebook.com/groups/developerji/permalink/2402890593147372/) - Boris Cergol
-- [Popoldansko delo - side hustle](https://www.facebook.com/groups/developerji/permalink/2368628426573589/) - Ajda Panjack
-- [Najbolj cenjeni certifikati 2020](https://www.facebook.com/groups/developerji/permalink/2259601777476255/) - Matej Rizman
+- [As a SENIOR dev - 3+ years of experience](https://www.facebook.com/groups/developerji/permalink/1755631567873281/) - Žiga Hajduković
+- [Example of Twitter employment requirements](https://www.facebook.com/groups/developerji/permalink/3065419470227811/) - Matej Rizman
+- [Alphabet (Google) union](https://www.facebook.com/groups/developerji/permalink/3051282841641474/) - Radio Študent podcast
+- [Addition to the base pay based on your success - is it a trap?](https://www.facebook.com/groups/developerji/permalink/3042182945884797/) - Rok Pok
+- [Fair pay for junior developers](https://www.facebook.com/groups/developerji/permalink/2797361633700264/) - Asmir Muminovic
+- [Good accounting companies](https://www.facebook.com/groups/developerji/permalink/2526311154138648/) - Uroš Orešič
+- [Job hunting - several applications at a time](https://www.facebook.com/groups/developerji/permalink/2353430251426740/) - Jure Matoh
+- [Slovenian AI companies](https://www.facebook.com/groups/developerji/permalink/2402890593147372/) - Boris Cergol
+- [Afternoon work - side hustle](https://www.facebook.com/groups/developerji/permalink/2368628426573589/) - Ajda Panjack
+- [Top certificates of 2020](https://www.facebook.com/groups/developerji/permalink/2259601777476255/) - Matej Rizman
 
-#### Za zaposlovalce
-- [Predlogi sestave oglasa za delo s strani programerjev](https://www.facebook.com/groups/developerji/permalink/2683961248373637/) - Žiga Hajduković
-- [Primer super oglasa za delo](https://www.facebook.com/groups/developerji/permalink/2490218704414560/) - Simon Belak
-- [Dejavniki, ki vplivajo na učinkovitost teamov na Googlu](https://www.facebook.com/groups/developerji/permalink/2274903989279367/) - Matej Rizman
+#### For employers
+- [Suggestions for job ad structure from developers](https://www.facebook.com/groups/developerji/permalink/2683961248373637/) - Žiga Hajduković
+- [Awesome job ad example](https://www.facebook.com/groups/developerji/permalink/2490218704414560/) - Simon Belak
+- [Five keys to a successful Google team](https://www.facebook.com/groups/developerji/permalink/2274903989279367/) - Matej Rizman
 - [Remote work guide](https://www.facebook.com/groups/developerji/permalink/2266075826828850/) - Tilen Travnik (d.labs)
 
 #### Remote
-- [Zbirka uporabnih strani in nasvetov](https://www.facebook.com/groups/developerji/permalink/2286647561438343/) - Sara Vošinek Gašpar
-- [Iskanje Remote Dela](https://www.facebook.com/groups/developerji/permalink/1768477156588722/) - Andreas Komočar
-    beri komentar Roka Carla (tisti, ki ima najvec lajkov :wink: )
-- [Iskanje Remote Dela](https://www.facebook.com/groups/developerji/permalink/1154485111321266/) - Aljaz Nekaj
-- [Recruiterji za remote delo](https://www.facebook.com/groups/developerji/permalink/1967875469982222/) - Jure Čuhalev
-- [Remote delo s pravnega vidika v Sloveniji](https://www.facebook.com/groups/developerji/permalink/1151770271592750/) - Robert Koritnik
-- [Uvajamo remote developerja, slabo komunicira](https://www.facebook.com/groups/developerji/permalink/2977907768978982/) - Matjaž Drolc
-- [Zaposlen v tujini - penzija, zdravstveno zavarovanje, davki](https://www.facebook.com/groups/developerji/permalink/2974752099294549/) - Samo Cerne
-- [Poslovni ali osebni bančni račun za račune](https://www.facebook.com/groups/developerji/permalink/2373359352767163/) - Mitja Or
-- [Remote za tuje podjetje - bolniška](https://www.facebook.com/groups/developerji/permalink/2868387546597672/) - Jernej Kolmanič
+- [Collection of useful advices and links](https://www.facebook.com/groups/developerji/permalink/2286647561438343/) - Sara Vošinek Gašpar
+- [Searching for Remote work](https://www.facebook.com/groups/developerji/permalink/1768477156588722/) - Andreas Komočar
+    read Rok Carl's comment (the one with the most likes :wink: )
+- [Searching for Remote work nr2](https://www.facebook.com/groups/developerji/permalink/1154485111321266/) - Aljaz Nekaj
+- [Remote work recruiters](https://www.facebook.com/groups/developerji/permalink/1967875469982222/) - Jure Čuhalev
+- [Remote work in Slovenia from legal point of view](https://www.facebook.com/groups/developerji/permalink/1151770271592750/) - Robert Koritnik
+- [Onboarding a new remote developer, has poor communication](https://www.facebook.com/groups/developerji/permalink/2977907768978982/) - Matjaž Drolc
+- [Working abroad - pension, health ensurance, taxes](https://www.facebook.com/groups/developerji/permalink/2974752099294549/) - Samo Cerne
+- [Business vs personal account for work](https://www.facebook.com/groups/developerji/permalink/2373359352767163/) - Mitja Or
+- [Remote for foreign company - sick days](https://www.facebook.com/groups/developerji/permalink/2868387546597672/) - Jernej Kolmanič
 - [Remotesome - passing a remote technical interview](https://www.facebook.com/groups/developerji/permalink/2622955017807594/) - Andrej Fodor
 - [StackOverflow recruiting](https://www.youtube.com/watch?v=p9YqfC2Nbrg) - Sara Vošinek Gašpar
 - [Remote Work Meetup](https://www.facebook.com/groups/developerji/permalink/2220008234768943/) - Andrej Fodor
-- [Zaposleni v remote-first podjetjih (COVID-19 help)](https://www.facebook.com/groups/developerji/permalink/2244351339001299/) - Simon Belak
-- [Svoja VAT številka?](https://www.facebook.com/groups/developerji/permalink/2276469445789488/?comment_id=2276916115744821) - Dejan Krejić
+- [Working as a remote-first company (COVID-19 help)](https://www.facebook.com/groups/developerji/permalink/2244351339001299/) - Simon Belak
+- [Your own VAT number?](https://www.facebook.com/groups/developerji/permalink/2276469445789488/?comment_id=2276916115744821) - Dejan Krejić
 
-### Startup stvari
-- [Logo in barvna shema](https://www.facebook.com/groups/developerji/permalink/3059548247481600/) - Dejan Dular
-- [Iščem partnerja](https://www.facebook.com/groups/developerji/permalink/3019161041520321/) - Ig Or
-- [Iščem co-founderja](https://www.facebook.com/groups/developerji/permalink/1709670232469415/) - Jaka Šmid
-- [Startup Večerja](https://www.facebook.com/groups/developerji/permalink/1711312938971811/) & [Post2](https://www.facebook.com/groups/developerji/permalink/2142944635808637/) - Andrej Fodor
+### Startup stuff
+- [Logo and color scheme](https://www.facebook.com/groups/developerji/permalink/3059548247481600/) - Dejan Dular
+- [Looking for a partner](https://www.facebook.com/groups/developerji/permalink/3019161041520321/) - Ig Or
+- [Looking for a co-founder](https://www.facebook.com/groups/developerji/permalink/1709670232469415/) - Jaka Šmid
+- [Startup Večerja (dinner)](https://www.facebook.com/groups/developerji/permalink/1711312938971811/) & [Post2](https://www.facebook.com/groups/developerji/permalink/2142944635808637/) - Andrej Fodor
 - [MicroConf - Bootsrapped SaaS founders](https://www.facebook.com/groups/developerji/permalink/2270741749695591/) - Jure Čuhalev
-- [Postavitev manjše spletne trgovine](https://www.facebook.com/groups/developerji/permalink/2271206812982418/) - Miha Markič
-- [Primerjava plačilnih modulov](https://www.facebook.com/groups/developerji/permalink/2228300887273011/) - Anže Harej (Optiweb)
+- [Setting up small e-commerce](https://www.facebook.com/groups/developerji/permalink/2271206812982418/) - Miha Markič
+- [WooCommerce - how to start](https://www.facebook.com/groups/developerji/permalink/3062065293896562/) - Matej Braz
+- [Payment module comparisons](https://www.facebook.com/groups/developerji/permalink/2228300887273011/) - Anže Harej (Optiweb)
 
-## Izobrazba 🏛 📚 📈
+## Education 🏛 📚 📈
 
-### Osnovni koncepti
-- Tipi programiranja
+### Basics
+- Types of programming
     - [Frontend](https://en.wikipedia.org/wiki/Front-end_web_development)
     - [Backend](https://en.wikipedia.org/wiki/Front_and_back_ends)
     - [Fullstack](https://www.w3schools.com/whatis/whatis_fullstack.asp)
-- [Programske paradigme](https://en.wikipedia.org/wiki/Programming_paradigm)
-    - [Objektno orientirano programiranje](https://en.wikipedia.org/wiki/Object-oriented_programming)
-    - [Funkcijsko programiranje](https://en.wikipedia.org/wiki/Functional_programming_)
-- Operacijski sistemi
+- [Programming paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)
+    - [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
+    - [Functional programming](https://en.wikipedia.org/wiki/Functional_programming_)
+- Operation systems
     - [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
     - [Unix](https://en.wikipedia.org/wiki/Unix)
         - [MacOS](https://en.wikipedia.org/wiki/MacOS)
@@ -403,7 +402,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
         - [DD-WRT](https://en.wikipedia.org/wiki/DD-WRT)
         - [Tizen](https://en.wikipedia.org/wiki/Tizen)
         
-- Programski jeziki
+- Programming languages
     - [Python](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
     - [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
     - [C](https://en.wikipedia.org/wiki/C_%28programming_language%29)
@@ -419,7 +418,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
     - [Rust](https://en.wikipedia.org/wiki/Rust_%28programming_language%29)
     - [Swift](https://en.wikipedia.org/wiki/Swift_%28programming_language%29)
     - [Kotlin](https://en.wikipedia.org/wiki/Kotlin_%28programming_language%29)
-- [Baze](https://en.wikipedia.org/wiki/Database)
+- [Databases](https://en.wikipedia.org/wiki/Database)
     - [SQL](https://en.wikipedia.org/wiki/SQL)
     - [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
     - [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)
@@ -427,13 +426,13 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
     - [LevelDB](https://en.wikipedia.org/wiki/LevelDB)
     - [RocksDB](https://en.wikipedia.org/wiki/RocksDB)
     - [LMDB](https://en.wikipedia.org/wiki/Lightning_Memory-Mapped_Database)
-- Testiranje
-    - [Unit testi](https://en.wikipedia.org/wiki/Unit_testing)
-    - [Integracijski testi](https://en.wikipedia.org/wiki/Integration_testing)
-    - [Acceptance testi](https://en.wikipedia.org/wiki/Acceptance_testing)
+- Testing
+    - [Unit tests](https://en.wikipedia.org/wiki/Unit_testing)
+    - [Integracijski tests](https://en.wikipedia.org/wiki/Integration_testing)
+    - [Acceptance tests](https://en.wikipedia.org/wiki/Acceptance_testing)
     - [Smoke test](https://en.wikipedia.org/wiki/Smoke_testing_%28software%29)
     - [Regression test](https://en.wikipedia.org/wiki/Regression_testing)
-- Avtomatizacija build procesa
+- Build process automation
     - [Maven](http://maven.apache.org/)
     - [Gradle](https://gradle.org)
     - [Ant](https://ant.apache.org)
@@ -443,48 +442,48 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
     - [Bitbucket](https://bitbucket.org/product/)
 
 - [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery) -> ([Jenkins](https://jenkins.io))
-- Orodja za sporazumevanje
+- Chatting tools
     - [Slack](https://slack.com/)
     - [Skype](https://www.skype.com/)
     - [Discord](https://discordapp.com)
     - [Telegram](https://telegram.org/)
-- Orodja za planiranje
+- Planning tools
     - [Jira](https://www.atlassian.com/software/jira)
     - [Trelo](https://trello.com)
-- Razvojne metodologije
+- Development methodologies
     - [Scrum](https://en.wikipedia.org/wiki/Scrum_%28software_development%29)
     - [Kanban](https://en.wikipedia.org/wiki/Kanban_%28development%29)
     - [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
-    - [Agilno programiranje](https://en.wikipedia.org/wiki/Agile_software_development)
-        - [Ekstremno programiranje](https://en.wikipedia.org/wiki/Extreme_programming)
+    - [Agile programing](https://en.wikipedia.org/wiki/Agile_software_development)
+        - [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming)
         - [Test driven development](https://en.wikipedia.org/wiki/Test-driven_development)
     - [Lean](https://en.wikipedia.org/wiki/Lean_software_development)
 - Freelance, Remote (SharedSpace), Fulltime (OpenOffice), consultant
-- Junior, Mid, Senior developerji, ["10x developerji"](https://www.facebook.com/groups/developerji/permalink/899702813466165/)
+- Junior, Mid, Senior developers, ["10x developers"](https://www.facebook.com/groups/developerji/permalink/899702813466165/)
 
-#### Članki
+#### Articles
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 - [What every programmer should know about memory (PDF)](https://www.akkadia.org/drepper/cpumemory.pdf)
 
-#### Zbirke literature 📖
-- [Zbirka raznih programerskih tem](https://github.com/sindresorhus/awesome)
-- [Zapiski programerskih tem](https://github.com/darshanime/notes)
+#### Literature collections 📖
+- [Collection of several computer subjects](https://github.com/sindresorhus/awesome)
+- [Notes of several computer subjects](https://github.com/darshanime/notes)
 
-### Fakultete
-- [Fakulteta za računalništvo in informatiko](https://www.fri.uni-lj.si/sl) - Ljubljana
-- [Fakulteta za elektrotehniko, računalništvo in informatiko](https://feri.um.si) - Maribor
-- [Fakulteta za organizacijske vede](https://fov.um.si/sl) (organizacijska informatika) - Kranj
-- [Fakulteta za informacijske študije](https://www.fis.unm.si/si/) - Novo Mesto
-- [Almamater](https://www.almamater.si/spletne-in-informacijske-tehnologije-c29) (Spletne in informacijske tehnologije) - Ljubljana, Maribor, online
+### Universities
+- [Faculty for Computer and Information Science, University of Ljubjana](https://www.fri.uni-lj.si/en) - Ljubljana
+- [Faculty of Electrical Engineering and Computer Science, University of Maribor](https://feri.um.si/en/) - Maribor
+- [Faculty of Organizational Sciences, University of Maribor](https://fov.um.si/en) (organizational informatics) - Kranj
+- [Faculty of information studies](https://www.fis.unm.si/en/) - Novo Mesto
+- [Almamater](https://en.almamater.si/web-and-information-technologies-c29) (Web and information technologies) - Ljubljana, Maribor, online
 - [Doba](https://www.doba.si/visja-strokovna-sola/kombinirana-studijska-pot/informatika) (Informatika) - Maribor
-- [UP Famnit](https://www.famnit.upr.si/sl/) - Koper
+- [UP Famnit](https://www.famnit.upr.si/en/) - Koper
 
-### Tečaji programiranja
+### Courses
 #### On-site
-- [SmartNinja, šola programiranja](https://www.smartninja.si) - Ljubljana & Maribor
+- [SmartNinja, programming school](https://www.smartninja.si) - Ljubljana & Maribor
 
 #### Online
-- [SmartNinja, šola programiranja](https://www.smartninja.si) - po novem tudi online tečaji (v slovenščini)
+- [SmartNinja, programming school](https://www.smartninja.si) - course (slovenian)
 - [Udacity](https://www.udacity.com)
 - [Coursera](https://www.coursera.org)
 - [Udemy](https://www.udemy.com)
@@ -496,77 +495,79 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 - [Freecodecamp](https://www.freecodecamp.org/)
 
 #### Bonus
-- [Freelance četrtek](https://www.youtube.com/watch?v=gzjYAxt0cQs&list=PLXvbm3tur0sALLgdTcpEHou0HdcbJ9xwI) - Miha Medven
-- [Brezplačni PHP tečaj](https://www.php-tecaj.si/) - Anže Šuštar, Marko Štamcar
+- [Freelance Thursday](https://www.youtube.com/watch?v=gzjYAxt0cQs&list=PLXvbm3tur0sALLgdTcpEHou0HdcbJ9xwI) - Miha Medven
+- [Free PHP course](https://www.php-tecaj.si/) - Anže Šuštar, Marko Štamcar
 
-### Poletne šole
-- [Poletna šola FRI](https://fri.uni-lj.si/sl/poletna-sola-fri) - Ljubljana
+### Summer schoils
+- [FRI summer school](https://fri.uni-lj.si/sl/poletna-sola-fri) - Ljubljana
 - [Infinum Academy](https://infinum.co/the-capsized-eight/infinum-academy-is-feeling-slovenia) - Ljubljana
 - [Outfit7 talent camp](https://outfit7.com/talent-camp/) - Ljubljana
 - [Google Summer Of Code](https://summerofcode.withgoogle.com/)
 
-### Hackathoni
-Hackathon je tekmovanje kjer posamezne ekipe (ponavadi 2-5 članov) s svojim tehničnim znanjem 
-tekmujejo med seboj z realiziranimi idejami/rešitvami v roku 24 ur (lahko gre tudi za dvodnevni dogodek).
+### Hackathons
+Hackathon is a competition where several teams (usually 2-5 members) compete with one another 
+with their technical expertise and within 24 hours (might also be 48 hours) try to make their solution/idea come to life
+and show it off at the end. The winners get some kind of prices from the investors of the hackathons.
 
-V Sloveniji je potekalo že nekaj hackathonov ([Turistični hackathon](https://www.facebook.com/events/268573270463421/), [HackTravel](https://hack.travel), [FinTech Hackathon](http://www.hackathon.si) in drugi),
-letno pa se ponavlja predvsem DragonHack.
+In Slovenia quite a few hackathons took place ([Turistical Hackathon](https://www.facebook.com/events/268573270463421/), [HackTravel](https://hack.travel), [FinTech Hackathon](http://www.hackathon.si) and others),
+but DragonHack is the only one happening every year.
 - [DragonHack](https://dragonhack.si) - FRI, Ljubljana
 - [MajorLeagueHacking](https://mlh.io/) - Europe Hackathon events ([2019](https://mlh.io/seasons/eu-2019/events), [2020](https://mlh.io/seasons/eu-2020/events))
 
-Pogovori v skupini Slovenski Developerji na temo Hackathonov
-- [Hackathon na meji izkoriščanja?](https://www.facebook.com/groups/developerji/permalink/3057493967687028/) - Gasper Zejn
+#### Slovenski Developerji Facebook discussions
+- [Hackathon - borderline of exploitation?](https://www.facebook.com/groups/developerji/permalink/3057493967687028/) - Gasper Zejn
 
-### Knjige 📚
+### Books 📚
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1) (20th anniversary) - Andy Hunt, Dave Thomas
 - [New Programmer's Survival Manual](http://www.amazon.com/New-Programmers.../dp/1934356816) - Joshua D. Carter
 - [The Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM) - Robert C. Martin
 - [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) - Robert C. Martin
 - [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
-Kupovanje knjig
-- [Kje kupovati IT čtivo](https://www.facebook.com/groups/developerji/permalink/3053136954789396/) - Žiga Wulicnik
 
-### Pogovori v skupini Slovenski Developerji na to temo
-- [FERI ali FRI?](https://www.facebook.com/groups/developerji/permalink/2276769642426135/) - Gal Jeza
-- [Pomembnost izobrazbe](https://www.facebook.com/groups/developerji/permalink/1889843437785426/) - Elisey Ozerov
-- [Se splača it na faks?](https://www.facebook.com/groups/developerji/permalink/1762979540471817/?comment_id=1763040593799045) - komentar Žaka Ternika
-- [Iščeš/ponujaš mentoriranje programiranja](https://www.facebook.com/groups/developerji/permalink/1631643216938784/) - Miha Medven
-- [Splošne knjige o programiranju](https://www.facebook.com/groups/developerji/permalink/1762979540471817/?comment_id=1763077527128685) - komentar Roka Zabukovca
-- [Začetek programerske kariere laika](https://www.facebook.com/groups/developerji/permalink/1423999144369860/) - Aleš Koncilja
-- [Pridobivanje certifikatov - koristno?](https://www.facebook.com/groups/developerji/permalink/417829644986820/) - Ozren Blanuša
-- [Dejansko kdo uporablja rocket-science enačbe s faksa?](https://www.facebook.com/groups/developerji/permalink/1902008999902203/) - Grega Raško
-- [Mistični Full Stack developerji](https://www.facebook.com/groups/developerji/permalink/1857080687728368/) - Tomaž Štih
-- [Frontent vs backend](https://www.facebook.com/groups/developerji/permalink/1846714855431618/) - Klemen Klemen
-- [Online courses vs college in Software Engineering](https://news.ycombinator.com/item?id=21104926) - HackerNews
-- [Zaključujem 3. letnik, kako dalje?](https://www.facebook.com/groups/developerji/permalink/3062066397229785/) - Jana Janković
-- [Podjetja iščejo programerje z diplomo ali znanjem?](https://www.facebook.com/groups/developerji/permalink/3057379191031839/) - Simon Meško
-- [Rad bi postal programer, nevem kam se obrnit](https://www.facebook.com/groups/developerji/permalink/3037811926321899/) - Računalničar Jancek
+#### Where to buy books
+- [Where to buy IT books](https://www.facebook.com/groups/developerji/permalink/3053136954789396/) - Žiga Wulicnik
+
+### Slovenski Developerji Facebook discussions
+- [FERI or FRI?](https://www.facebook.com/groups/developerji/permalink/2276769642426135/) - Gal Jeza
+- [Importance of education](https://www.facebook.com/groups/developerji/permalink/1889843437785426/) - Elisey Ozerov
+- [Should I attend a Faculty?](https://www.facebook.com/groups/developerji/permalink/1762979540471817/?comment_id=1763040593799045) - comment Žaka Ternika
+- [Seeking/offering programming mentorships](https://www.facebook.com/groups/developerji/permalink/1631643216938784/) - Miha Medven
+- [General programming books](https://www.facebook.com/groups/developerji/permalink/1762979540471817/?comment_id=1763077527128685) - comment Roka Zabukovca
+- [Beginner's programming carrer beginning](https://www.facebook.com/groups/developerji/permalink/1423999144369860/) - Aleš Koncilja
+- [Getting certified - useful?](https://www.facebook.com/groups/developerji/permalink/417829644986820/) - Ozren Blanuša
+- [Does anyone actually use rocket-science equations from the Faculty?](https://www.facebook.com/groups/developerji/permalink/1902008999902203/) - Grega Raško
+- [Mystical Full Stack developers](https://www.facebook.com/groups/developerji/permalink/1857080687728368/) - Tomaž Štih
+- [Frontend vs backend](https://www.facebook.com/groups/developerji/permalink/1846714855431618/) - Klemen Klemen
 - [Frontend vs backend vs fullstack](https://www.facebook.com/groups/developerji/permalink/2964780920291667/) - Emil Miller
-- [Iščem prvo zaposlitev - primer dobre predstavitve](https://www.facebook.com/groups/developerji/permalink/2930863840350042/) - Jaka Miklavc
-- [Iščem prvo zaposlitev - primer dobre predstavitve nr2](https://www.facebook.com/groups/developerji/permalink/2780015338768227/) - Žak Šilih
-- [Iščem prvo zaposlitev - primer dobre predstavitve nr3](https://www.facebook.com/groups/developerji/permalink/3019123088190783/) - Danilo Dimitrievski
-- [Oseba zna osnove HTML,CSS, Python - se najde delovno mesto?](https://www.facebook.com/groups/developerji/permalink/2293229454113487/) - Mladen Prajdic
+- [Online courses vs college in Software Engineering](https://news.ycombinator.com/item?id=21104926) - HackerNews
+- [Finishing 3. grade of Faculty, what now?](https://www.facebook.com/groups/developerji/permalink/3062066397229785/) - Jana Janković
+- [Do companies search for knowledge or diploma in their applicants?](https://www.facebook.com/groups/developerji/permalink/3057379191031839/) - Simon Meško
+- [I wanna be a programmer, what to do?](https://www.facebook.com/groups/developerji/permalink/3037811926321899/) - Računalničar Jancek
+- [Looking for first employment - example of good presentation](https://www.facebook.com/groups/developerji/permalink/2930863840350042/) - Jaka Miklavc
+- [Looking for first employment - example of good presentation nr2](https://www.facebook.com/groups/developerji/permalink/2780015338768227/) - Žak Šilih
+- [Looking for first employment - example of good presentation nr3](https://www.facebook.com/groups/developerji/permalink/3019123088190783/) - Danilo Dimitrievski
+- [Person knows basics of HTML,CSS, Python - could he/she get a job?](https://www.facebook.com/groups/developerji/permalink/2293229454113487/) - Mladen Prajdic
 
-## Iskanje rešitev 🔎 💡
-Med programiranjem velikokrat naletimo na oviro, kjer se nam zdi, da ni rešitve.
-Za pomoč iz tovrstnih zagat so bile narejene strani za iskanje tako tehničnih kot tudi konceptualnih rešitev.
+## Solution searching 🔎 💡
+During prgramming we usually get stuck in front of a wall and we think there's no way around it.
+To get around this wall programming collaborating websites were made for issues someone already solved, so you don't have to.
 
-Po vsej verjetnosti je na težavo na katero ste naleteli, naletel že nekdo drug, zato je eno izmed najpomembnejših programerjevih orodij
-prav zagotovo zmožnost efektivnega googlanja za rešitev problema.
+There's a good chance that someone else has already stepped on a similar programming mine that you had, so one of the most important
+programming tools is surely the power of Googling for solution.
 
-Poleg raznih forumov/blogov pa so za vprašanje o težavah možne naslednje strani:
+Beside several forums/blogs, most answers are asked and answered on the following websites:
 - [StackOverflow](https://stackoverflow.com)
 - [SuperUser](https://superuser.com)
 - [Slovenski developerji](https://www.facebook.com/groups/developerji)
 - [HackerNews ask](https://news.ycombinator.com/ask)
 
-## Orodja 🛠
+## Tools 🛠
 
-### Tehnična
-Za čimbolj efektivno delo programerja so prav zagotovo odgovorna tudi njegova orodja.
+### Technica
+Credit for most effective programmers work definitely takes his tooling. 
 
-Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) oziroma [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), terminal in Google.
+The most basic tool for each and every developer is a text editor or rather an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), terminal and Google.
 
 #### IDE
 - [IntelliJ](https://www.jetbrains.com/idea/)
@@ -577,7 +578,7 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 - [Eclipse](https://www.eclipse.org)
 - [NetBeans](https://netbeans.org)
 
-#### Urejevalniki besedil (Text Editors)
+#### Text Editors
 - [SublimeText](https://www.sublimetext.com)
 - [Atom](https://atom.io)
 - [Vim](https://www.vim.org)
@@ -585,71 +586,70 @@ Najbolj osnovna orodja za programerja so urejevalnik besedila (Text Editor) ozir
 - [Notepad++](https://notepad-plus-plus.org)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-#### Terminali
+#### Terminals
 - [iTerm2](https://www.iterm2.com) - MacOS
 - [CMD](https://en.wikipedia.org/wiki/Cmd.exe) - Windows
 - [PowerShell](https://en.wikipedia.org/wiki/PowerShell) - Windows
 - [Ubuntu terminal](https://help.ubuntu.com/community/UsingTheTerminal?action=show&redirect=BasicCommands) - Ubuntu
 
-#### Browser plugini
+#### Browser plugins
 - [Vimium](https://vimium.github.io)
 
-#### Zbirke orodij
-##### Splošne
-- [Undesign](https://undesign.learn.uno/) - brezplačna orodja za programerje in ustvarjalce
+#### Tool collections
+##### General
+- [Undesign](https://undesign.learn.uno/) - free tools for developers and creators
 
-##### Za študente
-- [GitHub Education Pack](https://education.github.com/pack) - orodja in crediti
-- [IntelliJ for Students](https://www.jetbrains.com/student/) - brezplačne IntelliJ professional licence
+##### For students
+- [GitHub Education Pack](https://education.github.com/pack) - tools and credits
+- [IntelliJ for Students](https://www.jetbrains.com/student/) - free IntelliJ professional license
 
-### Splošna
+### General
 
-#### Programska oprema
-- [Zoom alternative](https://www.facebook.com/groups/developerji/permalink/2281401275296305/) - Matej Leban)
-- [Nacrtovanje - vizualno](https://www.facebook.com/groups/developerji/permalink/2367750203328078/) - Andraž Brodul Brodnik
+#### Software
+- [Zoom alternatives](https://www.facebook.com/groups/developerji/permalink/2281401275296305/) - Matej Leban
+- [Planning - visual](https://www.facebook.com/groups/developerji/permalink/2367750203328078/) - Andraž Brodul Brodnik
 
-#### Delovno mesto in zdravje
-- [Glasba za produktivnost](https://www.facebook.com/groups/developerji/permalink/3024612174308541/) - Tomaž Štih
+#### Work place and health
+- [Productive music](https://www.facebook.com/groups/developerji/permalink/3024612174308541/) - Tomaž Štih
 
-#### Periferija
-- [Argonomska periferija](https://www.facebook.com/groups/developerji/permalink/3036984573071301/) - Matjaž Marussig
-- [Vpliv periferije na posameznika](https://www.facebook.com/groups/developerji/permalink/3026709510765474/?comment_id=3027113867391705) - Anže Šuštar
-- [Tipkovnice](https://www.facebook.com/groups/developerji/permalink/1877004242402679/) - Matevž Pesek
-- [Tipkovnice nr2](https://www.facebook.com/groups/developerji/permalink/2946563208780105/) - Anže Kožar
-- [Slušalke](https://www.facebook.com/groups/developerji/permalink/2319147958188303/) - Boštjan Žokš
-- [Stoli](https://www.facebook.com/groups/developerji/permalink/2870760826360344/) - Miha Zupančič
-- [Standing deski](https://www.facebook.com/groups/developerji/permalink/2841766842593076/) - Marko Vrbnjak
-- [Standing deski nr2](https://www.facebook.com/groups/developerji/permalink/2111266718976429/) - Tit Petrič
+#### Peripherals
+- [Argonomic peripheral](https://www.facebook.com/groups/developerji/permalink/3036984573071301/) - Matjaž Marussig
+- [The effect of peripheral on an individual](https://www.facebook.com/groups/developerji/permalink/3026709510765474/?comment_id=3027113867391705) - Anže Šuštar
+- [Keyboards](https://www.facebook.com/groups/developerji/permalink/1877004242402679/) - Matevž Pesek
+- [Keyboards nr2](https://www.facebook.com/groups/developerji/permalink/2946563208780105/) - Anže Kožar
+- [Earphones](https://www.facebook.com/groups/developerji/permalink/2319147958188303/) - Boštjan Žokš
+- [Chairs](https://www.facebook.com/groups/developerji/permalink/2870760826360344/) - Miha Zupančič
+- [Standing desks](https://www.facebook.com/groups/developerji/permalink/2841766842593076/) - Marko Vrbnjak
+- [Standing desks nr2](https://www.facebook.com/groups/developerji/permalink/2111266718976429/) - Tit Petrič
 
-## Zanimivosti 😮 🙌
-Zanimivi projekti/novice/debate, ki bi zanimale prav vsakega programerja.
+## Interesting stuff 😮 🙌
+Interesting projects/news/discussions, which might interest each and every programmer.
 
-### Hudi projekti
-Iniciativa s strani Ota Brgleza; [Kaj počnete?](https://www.facebook.com/hashtag/kajpo%C4%8Dnete/?__gid__=272812582821861) objave kjer ljudje predstavijo svoje projekte.
+### Awesome projects
+Initiative of Oto Brglez; [What are you doing?](https://www.facebook.com/hashtag/kajpo%C4%8Dnete/?__gid__=272812582821861) posts where people showcase their pet projects.
 
-#### Ostali projekti: 
-- [Flyavel](https://flyavel.com) - Luka Varga (update razvoja 
-[prvi](https://www.facebook.com/groups/developerji/permalink/1095225057247272/) in 
-[drugi](https://www.facebook.com/groups/developerji/permalink/1459865527449888/) del)
-- [BirdBuddy](https://www.kickstarter.com/projects/mybirdbuddy/bird-buddy-a-smart-bird-feeder) - Franci Zidar in Žiga Vrtačič
-- [COVID-19 Sledilnik](https://www.facebook.com/groups/developerji/permalink/2270372639732502/) - Luka Renko in [opensource ekipa](https://covid-19.sledilnik.org/sl/about)
+#### Other projects 
+- [Flyavel](https://flyavel.com) - Luka Varga (development update 
+[first](https://www.facebook.com/groups/developerji/permalink/1095225057247272/) and 
+[second](https://www.facebook.com/groups/developerji/permalink/1459865527449888/) part)
+- [BirdBuddy](https://www.kickstarter.com/projects/mybirdbuddy/bird-buddy-a-smart-bird-feeder) - Franci Zidar and Žiga Vrtačič
+- [COVID-19 Sledilnik](https://www.facebook.com/groups/developerji/permalink/2270372639732502/) - Luka Renko and [opensource ekipa](https://covid-19.sledilnik.org/sl/about)
 - [Divader](https://www.facebook.com/groups/developerji/permalink/2950653578371068/) - Zoran Bajraktarević
 - [Distributed real-time Wi-Fi spying system](https://www.youtube.com/watch?v=HJtDSF_gmYM) - Oto Brglez in Andraž Sraka
 - [Havannah - AI nasprotnik](https://www.facebook.com/groups/developerji/permalink/2923369627766130/) - Nino Serec
-- [Telekom Fritzbox router avantura](https://www.facebook.com/groups/developerji/permalink/2623780274391735/) - Tomaž Zaman
+- [Telekom Fritzbox router adventure](https://www.facebook.com/groups/developerji/permalink/2623780274391735/) - Tomaž Zaman
 - [Android app reverse engineering](https://www.facebook.com/groups/developerji/permalink/2576185722484524/) - Oto Brglez
 
-### Zanimive debate
-- [Kaj lepega ste se naučili/zgradili med počitnicami?](https://www.facebook.com/groups/developerji/permalink/1379932758776499/) - Oto Brglez
-- [Statistika računalnikov](https://www.facebook.com/groups/developerji/permalink/3044914432278315/) - Matej Zidarn
-- [WooCommerce - s čim začeti](https://www.facebook.com/groups/developerji/permalink/3062065293896562/) - Matej Braz
-- [Kaj vas je presenetilo v zadnjem času?](https://www.facebook.com/groups/developerji/permalink/2430344007068697/) - Jure Čuhalev
-- [Zbiranje EMŠO - sporno?](https://www.facebook.com/groups/developerji/permalink/2268404719929294/) - Gregor Pollak
+### Interesting discussions
+- [What amazing have you done/learned during the holidays?](https://www.facebook.com/groups/developerji/permalink/1379932758776499/) - Oto Brglez
+- [Computer statistics](https://www.facebook.com/groups/developerji/permalink/3044914432278315/) - Matej Zidarn
+- [What shocked you lately?](https://www.facebook.com/groups/developerji/permalink/2430344007068697/) - Jure Čuhalev
+- [Collecting EMŠO - controversial?](https://www.facebook.com/groups/developerji/permalink/2268404719929294/) - Gregor Pollak
 
 ---
 
-## Sodelujoči 🎖
-> V kolikor sem koga pozabil, me prosim opomnite na [@mihanovak1024](https://twitter.com/mihanovak1024) oziroma naredite [nov pull-request](https://github.com/mihanovak1024/programmers-guide-slovenia/pulls).
+## Contributors 🎖
+> If I forgot to mention anyone, do let me know via [@mihanovak1024](https://twitter.com/mihanovak1024) or do [a new pull-request](https://github.com/mihanovak1024/programmers-guide-slovenia/pulls).
 - [@mihanovak1024](https://mihanovak1024.com)
 - [@alekzs](https://github.com/alekzs)
 - [@mhojnik](https://github.com/mhojnik)
