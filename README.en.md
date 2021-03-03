@@ -134,6 +134,7 @@ _On right side the change from the last update can be seen (28.9.2019)_
 - [SecTalks Ljubljana](https://www.meetup.com/SecTalks-Ljubljana/) | 302 | :chart_with_upwards_trend: 5
 - [Ljubljana Hardware Meetup](https://www.meetup.com/Ljubljana-Hardware-Meetup/) | 277 | :chart_with_upwards_trend: 4
 - [Slovenia Ruby User Group](https://www.meetup.com/RubySlovenia/) | 264
+- [Slovenian Golang User Group](https://www.meetup.com/Slovenian-Go-lang-User-Group) | 263 | :chart_with_upwards_trend: 45
 - [Ljubljana Lambdas](https://www.meetup.com/Ljubljana-Lambdas/) | 250 | :chart_with_upwards_trend: 3
 - [3fs Open House Events](https://www.meetup.com/3fs-openhouse/) | 203 | :chart_with_upwards_trend: 6
 - [GeoDev Slovenia](https://www.meetup.com/GeoDev-Meetup-Slovenia/) | 177 | :chart_with_upwards_trend: 5
