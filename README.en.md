@@ -302,7 +302,7 @@ The later is called [_freelancing_](https://en.wikipedia.org/wiki/Freelancer) or
 
 ### Slovenski Developerji discussions
 #### General
-- [Comparison San Francisco <-> Europe](https://www.facebook.com/groups/developerji/permalink/1889843437785426/), [Part2](https://swizec.com/blog/san-francisco-v-europe-part-2/swizec/9198) - Swizec Teller
+- [Comparison San Francisco <-> Europe](https://www.facebook.com/groups/developerji/permalink/1889843437785426/) and [Part2](https://swizec.com/blog/san-francisco-v-europe-part-2/swizec/9198) - Swizec Teller
 - [Salary discussion for junior/senior positions](https://www.facebook.com/groups/developerji/permalink/1157862170983560/) - Miha Medven
 - [Working abroad - Europe](https://www.facebook.com/groups/272812582821861/permalink/836178613151919/) - Žan Marolt
 - [Student job - yes/no?](https://www.facebook.com/groups/developerji/permalink/1157902144312896/) - Goran Blažič

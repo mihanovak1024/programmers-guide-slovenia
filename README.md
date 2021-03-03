@@ -302,7 +302,7 @@ Lahko pa namesto polnega delovnega časa delaš stvari projektno, čemur se reč
 
 ### Pogovori v skupini Slovenski Developerji
 #### Splošno
-- [Primerjava San Francisco <-> Evropa](https://www.facebook.com/groups/developerji/permalink/1889843437785426/), [Part2](https://swizec.com/blog/san-francisco-v-europe-part-2/swizec/9198) - Swizec Teller
+- [Primerjava San Francisco <-> Evropa](https://www.facebook.com/groups/developerji/permalink/1889843437785426/) in [drugi del](https://swizec.com/blog/san-francisco-v-europe-part-2/swizec/9198) - Swizec Teller
 - [Debata o plačah in junior/senior delovnih mestih](https://www.facebook.com/groups/developerji/permalink/1157862170983560/) - Miha Medven
 - [Delo v tujini - EU](https://www.facebook.com/groups/272812582821861/permalink/836178613151919/) - Žan Marolt
 - [Študentsko delo - ja/ne?](https://www.facebook.com/groups/developerji/permalink/1157902144312896/) - Goran Blažič
