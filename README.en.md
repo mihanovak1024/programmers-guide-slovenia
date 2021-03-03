@@ -1,12 +1,12 @@
 # Programmer's guide Slovenia :slovenia:
 Contains basic stuff that every programmer :man_technologist: faces in the beginning of his career,
-but other non-technical people can find it useful such as recruiters :mailbox_with_mail:, marketing :loudspeaker:, artists :artist: and other technical enthusiasts :eyes:.
+but other non-technical people, such as recruiters :mailbox_with_mail:, marketing :loudspeaker:, artists :artist: and other technical enthusiasts :eyes: can also find it useful.
 ___
 Read this in other languages: [Slovenian](README.md) :slovenia:
 ___
 
 ## Uvod
-> If you could go back in time, what advice would you give your junior self developer?
+> If you could go back in time, what advice would you give yourself, a junior developer?
 
 [Questions for mid/senior developers](https://www.facebook.com/groups/developerji/permalink/682012798568502/) - Jana Bergant
 
@@ -34,7 +34,7 @@ Kazalo
         - [On-site work](#on-site-work)
         - [HackerNews](#hackernews-monthly-ads)
     - [Slovenian co-working offices](#slovenian-co-working-offices)
-    - [Slovenski Developerji discussions](#sloveniski-developerji-facebook-discussions)
+    - [Slovenski Developerji discussions](#slovenski-developerji-facebook-discussions)
         - [General](#general)
         - [For employers](#for-employers)
         - [Remote](#remote)
@@ -43,17 +43,17 @@ Kazalo
     - [Basics](#basics)
     - [Universities](#universities)
     - [Courses](#courses)
-    - [Summer schools](#summers-schools)
+    - [Summer schools](#summer-schools)
     - [Hackathons](#hackathons)
     - [Books](#books-)
-    - [Slovenski Developerji discussions](#sloveninski-developerji-facebook-discussions)
+    - [Slovenski Developerji discussions](#slovenski-developerji-facebook-discussions)
 - [Solution searching](#solution-searching--)
 - [Tools](#tools-)
     - [Technical](#technical)
     - [General](#general)
         - [Software](#software)
         - [Working environment and health](#working-environment-and-health)
-        - [Peripheral](#peripheral)
+        - [Peripherals](#peripherals)
 - [Interesting stuff](#interesting-stuff--)
     - [Awesome projects](#awesome-projects)
     - [Interesting discussions](#interesting-discussions)
@@ -274,7 +274,7 @@ that you work for the emplyer from the comfort of your home or from a co-working
 There's also two ways of working for the employer; either you work nine to five (8 hours, fulltime) or from project to project for one or several employers.
 The later is called [_freelancing_](https://en.wikipedia.org/wiki/Freelancer) or contracting. 
 
-#### Remote
+#### Remote work
 - [Freelancer](http://freelancer.com/) - freelancing
 - [UpWork](http://upwork.com/) - freelancing
 - [RemoteOK](https://remoteok.io)
@@ -285,7 +285,7 @@ The later is called [_freelancing_](https://en.wikipedia.org/wiki/Freelancer) or
 - [Collection of remote companies and platforms](https://docs.google.com/spreadsheets/u/1/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview)
 - [Remotesome](https://www.facebook.com/groups/developerji/permalink/2465560670213697/) - Uroš Marolt and Andrej Fodor
 
-#### On-site
+#### On-site work
 - [HackerNews jobs](https://news.ycombinator.com/jobs) - SilliconValley startups
 - [StackOverflow jobs](https://stackoverflow.com/jobs)
 - [AngelList](https://angel.co/) - startups
@@ -498,7 +498,7 @@ The later is called [_freelancing_](https://en.wikipedia.org/wiki/Freelancer) or
 - [Freelance Thursday](https://www.youtube.com/watch?v=gzjYAxt0cQs&list=PLXvbm3tur0sALLgdTcpEHou0HdcbJ9xwI) - Miha Medven
 - [Free PHP course](https://www.php-tecaj.si/) - Anže Šuštar, Marko Štamcar
 
-### Summer schoils
+### Summer schools
 - [FRI summer school](https://fri.uni-lj.si/sl/poletna-sola-fri) - Ljubljana
 - [Infinum Academy](https://infinum.co/the-capsized-eight/infinum-academy-is-feeling-slovenia) - Ljubljana
 - [Outfit7 talent camp](https://outfit7.com/talent-camp/) - Ljubljana
@@ -609,7 +609,7 @@ The most basic tool for each and every developer is a text editor or rather an [
 - [Zoom alternatives](https://www.facebook.com/groups/developerji/permalink/2281401275296305/) - Matej Leban
 - [Planning - visual](https://www.facebook.com/groups/developerji/permalink/2367750203328078/) - Andraž Brodul Brodnik
 
-#### Work place and health
+#### Working environment and health
 - [Productive music](https://www.facebook.com/groups/developerji/permalink/3024612174308541/) - Tomaž Štih
 
 #### Peripherals
