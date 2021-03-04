@@ -210,6 +210,8 @@ Seznam izhaja predvsem iz [Facebook posta](https://www.facebook.com/groups/devel
 - [samoburja.com](https://samoburja.com) - Samo Burja
 - [YonderNews](https://yondernews.com) - Andrej Mrevlje
 - [mihanovak1024](https://mihanovak1024.com/posts) - Miha Novak :raising_hand_man:
+- [mihagazvoda.com](https://mihagazvoda.com/) - Miha Gazvoda
+- [mr.si](https://mr.si/) - Miha Rekar
 
 ## Novice 🗞 📢
 Vsak developer/programer mora biti na tekočem z najnovejšimi tehnologijami. 
